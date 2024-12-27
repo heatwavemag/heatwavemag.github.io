@@ -1,34 +1,28 @@
 +++
-title = "HEATWAVE Submission Guidelines"
-#date = 2021-08-11
+title = "Example software project"
+date = 2021-08-11
 
 [taxonomies]
-categories = ["usa"]
+categories = ["software"]
 
 [extra]
 repo_path = "justint/papaya"
 +++
 
-**An expanded criteria of material for submission to Heatwave**
+This is my first software project!
 
 <!-- more -->
 
-Heatwave is a magazine for the contemporary communist current. We offer communists and anarchists a venue to share experiences and strategize together. We encourage original submissions in a variety of forms, including essays, political theory, reviews, visual media, and short fiction. Submissions need not conform strictly to a particular style. However, below are some parameters to consider that may aid in development. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin est augue, pellentesque sit amet nisi ut, viverra vestibulum purus. Quisque ac varius elit. 
 
-**Essays:** We are interested in critical analysis of the present, theoretically oriented by materialist inquiry. We are not interested in declarative missives or self-indulgent manifestos that trade scrutiny for polemics. We will also pass on "101 pieces" (e.g., introduction to Marxism, introduction to anarchism). There are many reputable outlets with which to publish these kinds of primers. Other than these constraints, the essay format is very flexible. Essays can be long-form or short-form, but we are interested in pieces in the range of 1,000 to 4,000 words.
+Praesent vitae pretium lacus, at placerat velit. Nulla feugiat quam eget quam tempus, id vulputate nulla suscipit. Vestibulum porta mollis molestie. In mollis diam et ante varius imperdiet et a elit. Mauris sodales quis nisi nec fringilla. 
 
-**Reports & Inquiry:** Political theory crystallizes from the practical experiences and struggles of daily life. We appreciate the form of the workers' inquiry as a model for researching and reporting on the technical and political conditions that shape class conflict, but we seek to extend that method to investigate social antagonisms and the formation of political subjectivities more generally. To that end, we solicit reports, including but not limited to reports from actions, protests, shitty jobs, or interactions with the state. Pieces should range from 1,000 to 4,000 words. Longer works have the option to be serialized. 
+    Aenean sed fermentum nunc, a consectetur magna.
 
-**Interviews:** Interview transcripts should be 1,000 to 4,000 words.
+Maecenas eget ligula porttitor, egestas orci id, gravida nisl. Aliquam erat volutpat. Sed dapibus felis quis lacus dignissim condimentum aliquam et orci. 
 
-**Reviews:** Reviews of media and cultural artifacts (books, film, music, art) should be 1,000 to 2,000 words. 
+1. Sed rutrum velit et purus volutpat rutrum. 
+2. Suspendisse mollis ante arcu, sit amet vehicula nisl cursus ac. 
+3. Donec tristique risus dolor, at tristique urna placerat et. 
 
-**Fiction:** We accept works of short fiction, up to 2,000 words. Longer works have the option to be serialized. 
-
-**Visual Media:** We include here art, political cartoons, infographics, photography, but are open to other submission inquiries. 
-
-**This list is of course not exhaustive. We are receptive to other proposals for submissions. Please send all pitches to [heatwavemag@proton.me](heatwavemag@proton.me).**
-
-We encourage contributors to submit work that has been carefully drafted and thoroughly revised before final submission. Pieces that require less editorial handling will have a higher likelihood of being accepted. Heatwave is an all-volunteer project. 
-
-Heatwave offers a small stipend for contributors. The current base rate is $50 per piece, but is negotiable as a sliding scale based on need. 
+Nam vel interdum neque. Maecenas laoreet eget enim at rhoncus. Donec posuere diam leo, blandit semper urna semper nec. 
