@@ -16,4 +16,4 @@ While there is no shortage of left media, most English-language publications off
 
 For submissions, contact [heatwavemag@proton.me](heatwavemag@proton.me)
 
-Our name “Heatwave” echoes that of an old Situationist magazine (“Britain’s most incandescent journal" of 1966), but with added urgency in an era where every summer is the hottest on record. 
+**Our name “Heatwave” echoes that of an old Situationist magazine (“Britain’s most incandescent journal" of 1966), but with added urgency in an era where every summer is the hottest on record.** 

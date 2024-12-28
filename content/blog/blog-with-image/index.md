@@ -3,7 +3,7 @@ title = "Relative Path of Image"
 date = 2021-10-01
 
 [taxonomies]
-tags = ["other"]
+tags = ["anarchismo"]
 +++
 
 Use `img()` to specify the relative path of image.

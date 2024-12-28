@@ -3,7 +3,7 @@ title = "What is Zola"
 date = 2021-10-03
 
 [taxonomies]
-tags = ["rust", "other"]
+tags = ["screws", "coppers"]
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
