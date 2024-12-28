@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://github.com/heatwavemag/heatwavemag.github.io"
+base_url = "https://heatwavemag.github.io"
 
 default_language = "en"
 
