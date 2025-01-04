@@ -4,7 +4,7 @@ render = true
 template = "about.html"
 +++
 
-{{ img(path="@/about/me.jpg", class="bordered", alt="", caption="") }}
+{{ img(path="@/about/me.png", class="bordered", alt="", caption="") }}
 
 &nbsp;
 
