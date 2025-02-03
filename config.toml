@@ -43,6 +43,7 @@ projects = "Downloads"
 blog = "Recent Issue"
 about = "About"
 submissions = "Submissions"
+subscribe = "Subscribe"
 recent_projects = ""
 more_projects = "More"
 recent_blog_posts = "Recent"
@@ -77,6 +78,7 @@ menu_items = [
     { name = "tags", url = "$LANG_BASE_URL/tags" },
     { name = "about", url = "$LANG_BASE_URL/about", show_recent = false },
     { name = "submissions", url = "$LANG_BASE_URL/submissions", show_recent = false },
+    { name = "subscribe", url = "$LANG_BASE_URL/subscribe", show_recent = false },
 ]
 
 [extra.images]
