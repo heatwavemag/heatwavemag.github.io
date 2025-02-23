@@ -1,5 +1,5 @@
 +++
-title = "About Us"
+title = " "
 render = true
 template = "about.html"
 +++
