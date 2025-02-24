@@ -104,7 +104,7 @@ tiktok = "@htwvmag"
 patreon = "158785705"
 bsky = "htwvmag.bsky.social"
 other = [
-    { name = "BTC", font_awesome = "fa-brands fa-btc", url = "https://www.bitcoin.com/" }
+    { name = "Bluesky", font_awesome = "fa-brands fa-bsky", url = "https://bsky.app/" }
 ]
 
 # CDN links
