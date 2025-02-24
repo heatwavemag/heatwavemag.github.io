@@ -103,7 +103,9 @@ youtube = "UCqWJW3ld7sN6sVsvTe6jY_w"
 tiktok = "@htwvmag"
 patreon = "158785705"
 bsky = "htwvmag.bsky.social"
-
+other = [
+    { name = "BTC", font_awesome = "fa-brands fa-btc", url = "https://www.bitcoin.com/" }
+]
 
 # CDN links
 [extra.cdn]
