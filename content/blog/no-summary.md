@@ -2,8 +2,6 @@
 title = "Welcome to Heatwave"
 date = 2021-10-04
 
-[taxonomies]
-tags = [""]
 +++
 
 For more about this project, please see [About Us](https://heatwavemag.github.io/about/).
