@@ -2,6 +2,8 @@
 title = "Test Download Link"
 date = 2021-08-11
 
+[taxonomies]
+categories = [" , , "]
 
 [extra]
 repo_path = "justint/papaya"
