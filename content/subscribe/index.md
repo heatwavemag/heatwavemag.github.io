@@ -11,5 +11,4 @@ We publish Heatwave Magazine quarterly and additional content sporadically. To r
 # [Subscribe](https://www.patreon.com/profile/creators?u=158785705)
 
 <a href="https://www.patreon.com/profile/creators?u=158785705" rel="patreon">![Patreon](https://c14.patreon.com/quxga_Patreon_Symbol_6fff9723d3.png)</a>
-https://c14.patreon.com/quxga_Patreon_Symbol_6fff9723d3.png
 
