@@ -31,7 +31,8 @@ highlight_themes_css = [
 
 [languages.en]
 title = "Home"
-description = "A Magazine for the Contemporary Communist Milieu"
+description = "Popular Media Against The State And Capital"
+## Popular Media From The Post Left
 # The taxonomies to be rendered for the site and their configuration of the default languages
 taxonomies = [
     { name = "tags", lang = "en" },
@@ -48,12 +49,17 @@ recent_projects = ""
 more_projects = "More"
 recent_blog_posts = "Recent"
 more_blog_posts = "More"
-tag = "Tag"
-tags = "Tags"
-to_all_tags = "To all tags"
-category = "Category"
-categories = "Categories"
-to_all_categories = "To all categories"
+# tag = "Tag" ## original setting
+# tags = "Tags" ## original setting
+# to_all_tags = "To all tags" ## original setting
+# category = "Category" ## original setting
+# categories = "Categories" ## original setting
+tag = ""
+tags = ""
+to_all_tags = ""
+category = ""
+categories = ""
+to_all_categories = ""
 view_by = "View by"
 other = "Other"
 minute = "min"
@@ -68,7 +74,7 @@ date_format = "%B %e, %Y"
 env = "ZOLA_ENV"
 
 # Color theme mode. Options: light, dark, auto (automatically switch depending on OS/user agent settings)
-color_mode = "auto"
+color_mode = "dark"
 
 # List of Papaya navigational menu items. Used to construct the navigation bar. See the README for item schema.
 menu_items = [
@@ -102,10 +108,6 @@ twitter = "heatwvmag"
 youtube = "UCqWJW3ld7sN6sVsvTe6jY_w"
 tiktok = "@htwvmag"
 patreon = "158785705"
-bsky = "htwvmag.bsky.social"
-other = [
-    { name = "Bluesky", font_awesome = "fa-brands fa-bsky", url = "https://bsky.app/" }
-]
 
 # CDN links
 [extra.cdn]
