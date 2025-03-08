@@ -4,22 +4,26 @@ date = 2025-08-03
 
 +++
 
-<a href="https://heatwavemag.github.io/about/" target="_blank">About Us</a>
+<center>
 
-<center>“No capital will be invested for the good of our great-grandchildren.” </center>
+_No capital will be invested for the good of our great-grandchildren_
+</center>
 <center>  
 
 __-Amadeo Bordiga__ 
 </center> 
 
-<center>“They know the value of words but they don’t know how much of the future is contained in the workday of a laborer.” </center>
+<center>
+
+_They know the value of words but they don’t know how much of the future is contained in the workday of a laborer_ 
+</center>
 <center>
 
  __-Lucía Sánchez Saornil__ 
 </center>
 
-
-"How are you?” I say, tossing a spongy green ball to the eight-year-old in front of me. I’ve found that eight-year-olds are far more likely to pay attention if I throw them a ball at the same time as I ask them a question. And this is the spongiest ball I could find, because if not, they would find a way to hurt each other with it. The semi-private Catholic school I’m teaching in is not a great environment for learning. There are too many students per class. The walls echo. It’s loud. The kids don’t really want to learn English. They’re used to being yelled at by teachers and administrators and forced to sit in a seat and do exercises in a book. By the time they get to our extracurricular English classes, they’d rather be running around in the courtyard or playing soccer or basketball. Still, the teachers are doing our best. Coaxing, praising, occasionally threatening to talk to their parents. Telling them to stop bullying the poor kid recently arrived from an active war zone who sits in the corner covering his ears when it gets too loud. Telling them not to hug the crying kid, because he clearly doesn’t want to be hugged by them right now after they were just being mean to him. Trying to teach a bit about empathy and respect and consent. With luck, they even learn some English.
+<font style="font-family: Arial, sans-serif; font-size:55pt; font-style:regular; width: .80em; font-weight: 400; line-height: 52px; float: left; color:rgb(255, 254, 255); padding-top: 10px; padding-bottom: 5px; padding-right: 5px; padding-left: -5px;  margin-right: -5px; margin-bottom: -5px;">H</font>
+ow are you?” I say, tossing a spongy green ball to the eight-year-old in front of me. I’ve found that eight-year-olds are far more likely to pay attention if I throw them a ball at the same time as I ask them a question. And this is the spongiest ball I could find, because if not, they would find a way to hurt each other with it. The semi-private Catholic school I’m teaching in is not a great environment for learning. There are too many students per class. The walls echo. It’s loud. The kids don’t really want to learn English. They’re used to being yelled at by teachers and administrators and forced to sit in a seat and do exercises in a book. By the time they get to our extracurricular English classes, they’d rather be running around in the courtyard or playing soccer or basketball. Still, the teachers are doing our best. Coaxing, praising, occasionally threatening to talk to their parents. Telling them to stop bullying the poor kid recently arrived from an active war zone who sits in the corner covering his ears when it gets too loud. Telling them not to hug the crying kid, because he clearly doesn’t want to be hugged by them right now after they were just being mean to him. Trying to teach a bit about empathy and respect and consent. With luck, they even learn some English.
 “How are you?” I repeat. The last few kids have said, “I am happy.” “I am bored.” And “I am very very very very very happy.” I make a mental note to teach them “fantastic” and “great” so they stop overusing “very.” This eight-year-old thinks for a moment and says, “I am sad.” 
 “Why?” I ask. And she reaches the limits of her English and switches into Spanish.
 “Because of what happened.”
@@ -86,7 +90,8 @@ It’s a sunny afternoon. On top of everything else, my girlfriend and I have re
 I think for a second and mentally answer, “No.” Strangely, despite all the stress and tragedy of the last few months, I’ve come out of all of this with more hope, not less. Each year is hotter than the last, and climate disasters, racism and authoritarianism are on the rise. But working class solidarity is still a powerful force. And I think there is still hope that a diverse international working class can take action and remake the world. It’s really the only way there is any hope for the future. 
 The author of this article wants to remain anonymous. \
 \
-But you can check out more of his work on [www.prole.info](www.prole.info).
-
+But you can check out more of his work on <a href="www.prole.info" target="_blank">www.prole.info</a>.  
+<br />
+  
 ---
 
