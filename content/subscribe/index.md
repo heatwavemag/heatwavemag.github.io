@@ -10,7 +10,7 @@ We publish Heatwave Magazine quarterly and additional content sporadically. To r
 
 &nbsp;
 
-{{ img(path="@/subscribe/subscribe.png", class="bordered", alt="", caption="",style="display:none) }}
+{{ img(path="@/subscribe/subscribe.png", class="bordered", alt="", caption="",style="display:none") }}
 
 <a href="https://www.patreon.com/profile/creators?u=158785705" rel="patreon">![Patreon](https://heatwavemag.github.io/processed_images/subscribe.07473ed42a376b3c.jpg)</a>
 
