@@ -39,11 +39,11 @@ taxonomies = [
 ]
 
 [languages.en.translations]
-projects = "Print"
 blog = "Magazine"
 about = "About"
 submissions = "Submissions"
 subscribe = "Subscribe"
+projects = "Print"
 recent_projects = ""
 more_projects = "More"
 recent_blog_posts = "Recent"
