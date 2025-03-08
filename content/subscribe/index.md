@@ -8,5 +8,7 @@ template = "about.html"
 
 We publish Heatwave Magazine quarterly and additional content sporadically. To receive print copies of each issue and access additional content when it's released, subscribe at our Patreon by **clicking below:** 
 
+&nbsp;
+
 <a href="https://www.patreon.com/profile/creators?u=158785705" rel="patreon">![Patreon](https://heatwavemag.github.io/processed_images/me.ac88643ad511de5c.png)</a>
 

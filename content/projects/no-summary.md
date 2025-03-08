@@ -1,9 +1,11 @@
 +++
-title = "Test Download Link"
+title = "Quarter Pounds Of Flesh"
 date = 2021-10-04
 
 +++
 
-<a href="https://crimethinc.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzg3LCJwdXIiOiJibG9iX2lkIn19--102bfd8abc94091a032d49141b46ac3b016bad23/the-shadow-of-the-past-holds-the-future-hostage_back_black_and_white.pdf" target="_blank">test download link</a>
+The first piece in a series by author Burger McMaster
+
+<a href="https://brooklynrail.org/2024/12/field-notes/quarter-pounds-of-flesh/" target="_blank">Quarter Pounds Of Flesh</a>
 
 
