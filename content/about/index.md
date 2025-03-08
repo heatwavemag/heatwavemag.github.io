@@ -4,7 +4,6 @@ render = true
 template = "about.html"
 +++
 
-&nbsp;
 
 Heatwave is a multi-media project dedicated to sharing experiences and strategizing together about our efforts to break free from the infernal prison of capital. As the world burns and the political horizon grows increasingly grim, we seek to connect comrades around the globe and contribute to building something powerful enough to incinerate that prison. From its ashes, a vision emerges: a world based on the classic principle "from each according to their ability, to each according to their need" -- a dignified life on a thriving planet.
 
