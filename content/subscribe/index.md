@@ -10,8 +10,6 @@ We publish Heatwave Magazine quarterly and additional content sporadically. To r
 
 &nbsp;
 
-<a href="https://www.patreon.com/profile/creators?u=158785705" rel="patreon">![Patreon](https://github.com/heatwavemag/heatwavemag.github.io/blob/main/static/processed_images/subscribe.jpeg)</a>
-
 <p>
   <a href="https://www.patreon.com/profile/creators?u=158785705" title="Redirect to homepage">
     <img src="https://github.com/heatwavemag/heatwavemag.github.io/blob/main/static/processed_images/subscribe.jpeg?raw=true" alt="homepage" />
