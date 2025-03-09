@@ -9,7 +9,7 @@ alt="", caption="Wreckage from the Valencia floods piled up in a nearby neighbor
 
 <center>
 
-_No capital will be invested for the good of our great-grandchildren_
+_No capital will be invested for the good of our great-grandchildren._
 </center>
 <center>  
 
@@ -18,7 +18,7 @@ __-Amadeo Bordiga__
 
 <center>
 
-_They know the value of words but they don’t know how much of the future is contained in the workday of a laborer_ 
+_They know the value of words but they don’t know how much of the future is contained in the workday of a laborer._ 
 </center>
 <center>
 
@@ -87,7 +87,7 @@ The far-right tried to capitalize on the disaster to push their particular agend
 So far there have been three much larger protests organized by various Valencian community groups against the government of Mazón. They have had between 80,000 and 130,000 people each. In the first, protesters smeared the palace of the Valencian government with mud, and when riot police formed a line to protect it, people chanted “Where were you on the first day?” In the second, masses of people all set off the emergency alert sounds on their phones at exactly 20:12. When a Vox media personality (known as “Vox’s black guy” because he’s from Cameroon) went to one of the protests, he was confronted and kicked out, as people chanted, “Fascists off our streets!” Thankfully, it doesn’t seem that the far -right have been able to turn the disaster to their advantage. They haven’t been able to destroy people’s immediate reaction of empathy for other people in a bad situation… for the moment anyway. \
 \
 {{ img(path="@/blog/class_dis_030825_media/photo4.jpeg", 
-alt="", caption="A demonstration against Mazón organized by Valencian community groups.", extended_width_pct=-1) }} \
+alt="", caption="A demonstration of over 100,000 against Mazón organized by Valencian community groups.", extended_width_pct=-1) }} \
 The more established political parties are less interested in shaking things up. The PP dismissed the massive protests, saying they were the work of “Catalanists.” In his first statement in the Valencian legislature after the disaster, Mazón thanked the king and queen for their empathy and bravery. For their part, PSOE seem threatened by the distrust in government, and have tried to blame everything on the far-right. They want to counter the idea that the state is made up of heavily armed apes and have been trying to paint “Only the people save the people!” as a far-right slogan. The leader of the PSOE in Valencia talked about “climate change deniers” and “state deniers” as the same thing. And Pedro Sanchez has been pushing the idea that “We are all the state.” \
 \
 **BACK TO CLASS** \
