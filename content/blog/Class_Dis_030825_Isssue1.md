@@ -111,7 +111,7 @@ alt="", caption="The grave of Lucía Sánchez Saornil, anarchist militant and fo
 I think for a second and mentally answer, “No.” Strangely, despite all the stress and tragedy of the last few months, I’ve come out of all of this with more hope, not less. Each year is hotter than the last, and climate disasters, racism and authoritarianism are on the rise. But working class solidarity is still a powerful force. And I think there is still hope that a diverse international working class can take action and remake the world. It’s really the only way there is any hope for the future. 
 \
 \
-_The author of this article wants to remain anonymous, but you can check out more of his work on <a href="www.prole.info" target="_blank">www.prole.info</a>._ \
+_The author of this article wants to remain anonymous, but you can check out more of his work at [www.prole.info](https://www.prole.info/)._ \
 <br />
 
 ---
