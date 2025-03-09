@@ -6,7 +6,6 @@ date = 2025-08-03
 
 {{ img(path="@/blog/class_dis_030825_media/photo1.jpeg", 
 alt="", caption="Wreckage from the Valencia floods piled up in a nearby neighborhood.", extended_width_pct=-1) }} \
-<br>
 
 <center>
 
@@ -109,7 +108,6 @@ It’s a sunny afternoon. On top of everything else, my girlfriend and I have re
 \
 {{ img(path="@/blog/class_dis_030825_media/photo5.jpeg", 
 alt="", caption="The grave of Lucía Sánchez Saornil, anarchist militant and founder of Mujeres Libres.", extended_width_pct=-1) }} \
-<br>
 I think for a second and mentally answer, “No.” Strangely, despite all the stress and tragedy of the last few months, I’ve come out of all of this with more hope, not less. Each year is hotter than the last, and climate disasters, racism and authoritarianism are on the rise. But working class solidarity is still a powerful force. And I think there is still hope that a diverse international working class can take action and remake the world. It’s really the only way there is any hope for the future. 
 \
 \
