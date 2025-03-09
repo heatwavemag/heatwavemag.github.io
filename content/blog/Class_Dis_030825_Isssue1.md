@@ -5,7 +5,7 @@ date = 2025-08-03
 +++
 
 {{ img(path="@/blog/class_dis_030825_media/photo1.jpeg", 
-alt="", caption="Wreckage from the Valencia floods piled up in a nearby neighborhood.", extended_width_pct=-1) }} \
+alt="", caption="Wreckage from the Valencia floods piled up in a nearby neighborhood.", extended_width_pct=-1) }}
 
 <center>
 
