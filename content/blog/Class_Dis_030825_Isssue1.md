@@ -12,7 +12,7 @@ _No capital will be invested for the good of our great-grandchildren._
 
 __-Amadeo Bordiga__ 
 
-
+\
 _They know the value of words but they don’t know how much of the future is contained in the workday of a laborer._ 
 
  __-Lucía Sánchez Saornil__ 

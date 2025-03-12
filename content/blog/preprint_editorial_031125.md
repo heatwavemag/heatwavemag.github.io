@@ -3,7 +3,6 @@ title = "The Case for Letting the World Burn"
 date = 2025-03-08
 +++
 \
-\
 **Pre-print Editorial to *Heatwave* #1**[^1] 
 
 \
@@ -333,7 +332,6 @@ to find it.
 <br />
 
 ---
-
 [^1]: Issue one of *Heatwave* magazine is scheduled for printing in June
     2025. To give readers a sense of what is to come, we are publishing
     this pre-print version of the editorial online. All editorials are
