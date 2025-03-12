@@ -2,7 +2,7 @@
 {% macro page_info(page) %}
     <div class="article-info">
         {% if page.date %}
-        {% set reading_time = "◦ " ~ page.reading_time ~ " " ~ trans(key="minute", lang=lang) %}
+        <!-- {% set reading_time = "◦ " ~ page.reading_time ~ " " ~ trans(key="minute", lang=lang) %} -->
         <div class="article-date">{{ page.date | date(format=trans(key="date_format", lang=lang)) }} {{ reading_time }} ◦ </div>
         {% endif %}
         <div class="article-taxonomies">

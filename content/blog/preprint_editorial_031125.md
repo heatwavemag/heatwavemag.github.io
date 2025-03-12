@@ -2,12 +2,11 @@
 title = "The Case for Letting the World Burn"
 date = 2025-03-08
 +++
-<center>
-
+\
+\
 **Pre-print Editorial to *Heatwave* #1**[^1] 
-</center> 
 
-
+\
 It's not possible to draw up a balance sheet of the times without
 reviewing the ledger of global catastrophe. Chaos, crisis,
 destabilization &mdash; it's hard to even find the words adequate to express
@@ -66,8 +65,8 @@ interfere with aid shipments and escalates its incursions into the West
 Bank, recovering whatever political legitimacy it can among its
 fanatical settler constituency. Meanwhile, Trump appears to be holding
 the ceasefire itself hostage as he threatens Gazans with yet another
-kind of F.I.R.E.: real estate development.
-
+kind of F.I.R.E.: real estate development. \
+\
 If Palestine is a barometer for liberatory prospects more generally, it
 is telling that the Gaza War should be the most significant conflict
 since 1973, when the Fourth Arab-Israeli War provided the threshold
@@ -80,8 +79,8 @@ and insurgent quality, characteristic of the civilian-led Intifadas.
 After the U.S. began supporting Israel in that war, OPEC prosecuted its
 now-infamous embargo in the first "oil shock" of the 1970s, initiating a
 sequence of energy crises that accelerated the unraveling of U.S.-led
-global production.
-
+global production. \
+\
 It feels that we are caught between 1973 and 2025, between collapsing
 heavens and the unyielding earth below. Like a dying god, capital can
 barely retain the human flesh that animates it. Meanwhile, promises to
@@ -235,8 +234,8 @@ suspended in the emergence of a communist program.[^4] While some kind
 of a collapse is certainly underway, it has not been accompanied by the
 widespread development of organizational, strategic, or tactical forms
 that present such a resolution. Instead, we are left with a balance of
-forces, always contending and shifting.
-
+forces, always contending and shifting. \
+\
 Revolution is not an organizational riddle, but an ecosystemic problem.
 Many projects make their burnt offerings to the communist prospect. Some
 offer past ideologies and organizational forms as catch-all solutions to
@@ -297,8 +296,8 @@ increasingly grim, we seek to connect comrades around the
 globe and contribute to building something powerful enough to incinerate
 that prison. From its ashes, a vision emerges: a world based on
 the classic principle "from each according to their ability, to each
-according to their need"---a dignified life on a thriving planet.
-
+according to their need"---a dignified life on a thriving planet. \
+\
 Most of our current members are based in the U.S., but we aim to become
 an international publication that examines struggles globally. In 2025,
 we're launching our website, a quarterly print magazine, a video
@@ -309,8 +308,8 @@ The videos will provide alternative presentations of written
 material. Our content will cover a range of topics and genres, including
 reports on recent events, theoretical reflections and analysis,
 interviews with comrades involved in inspiring projects, reviews of
-books and films, original artwork, and literature.
-
+books and films, original artwork, and literature. \
+\
 While there is no shortage of left media, most English-language
 publications offer only partial critiques and tepid
 reformism, or regurgitate debates among 20th-century sects whose
@@ -327,12 +326,14 @@ journal" of 1966), but with added urgency in an era where every summer
 is the hottest on record. While the statistical certainty of catastrophe
 is inescapable, "revolt" names many species of conflagration, including
 that peculiar variety we call communism. We must sift through the ashes
-to find it. \
-\
-*&mdash;The editors, March 2025* 
+to find it. 
+<br />
+
+<p align="right"> <i> &mdash;The editors, March 2025 </i> </p>
+<br />
 
 ---
-\
+
 [^1]: Issue one of *Heatwave* magazine is scheduled for printing in June
     2025. To give readers a sense of what is to come, we are publishing
     this pre-print version of the editorial online. All editorials are
