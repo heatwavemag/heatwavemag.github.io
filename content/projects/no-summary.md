@@ -1,11 +1,12 @@
 +++
-title = "Quarter Pounds Of Flesh"
+title = "First issue of Heatwave coming soon!"
 date = 2021-10-04
 
 +++
 
-The first piece in a series by author Burger McMaster
+a PDF of the first issue of Heatwave Magazine will be uploaded here at the end of Summer 2025. 
 
-<a href="https://brooklynrail.org/2024/12/field-notes/quarter-pounds-of-flesh/" target="_blank">Quarter Pounds Of Flesh</a>
+## Check back for updates!
+ 
 
 
