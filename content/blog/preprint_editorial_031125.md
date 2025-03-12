@@ -1,6 +1,6 @@
 +++
 title = "The Case for Letting the World Burn"
-
+date = 2025-03-08
 +++
 <center>
 
