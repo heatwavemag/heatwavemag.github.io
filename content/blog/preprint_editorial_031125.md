@@ -2,7 +2,7 @@
 title = "The Case for Letting the World Burn"
 date = 2025-03-08
 +++
-\
+
 **Pre-print Editorial to *Heatwave* #1**[^1] 
 
 \
