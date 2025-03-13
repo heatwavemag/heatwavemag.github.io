@@ -1,5 +1,5 @@
 +++
-title = "CLASS AND DISASTER IN VALENCIA"
+title = "Class and Disaster in Valencia"
 date = 2025-03-11
 
 +++
