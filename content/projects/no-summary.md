@@ -1,10 +1,10 @@
 +++
 title = "First issue of Heatwave coming soon!"
-date = 2021-10-04
+date = 2025-04-01
 
 +++
 
-a PDF of the first issue of Heatwave Magazine will be uploaded here at the end of Summer 2025. 
+A PDF of the first issue of Heatwave Magazine will be made available here for free in September 2025. Meanwhile, please help us to achieve financial sustainability by subscribing to receive print copies via Patreon. One-off purchases of individual issues will also be available from select distributors. In addition, HTML versions of the contents will be gradually released on the “Magazine” section of our website.
 
 ## Check back for updates!
  

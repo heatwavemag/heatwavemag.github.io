@@ -4,7 +4,7 @@ render = true
 template = "about.html"
 +++
 
-Heatwave is a magazine for the contemporary communist current. We offer communists and anarchists a venue to share experiences and strategize together. We encourage original submissions in a variety of forms, including essays, political theory, reviews, visual media, and short fiction. Submissions need not conform strictly to a particular style. However, below are some parameters to consider that may aid in development. \
+We encourage original submissions in a variety of forms, including essays, political theory, reviews, visual media, and short fiction. Submissions need not conform strictly to a particular style. However, below are some parameters to consider that may aid in development. \
 \
 **Essays:** We are interested in critical analysis of the present, theoretically oriented by materialist inquiry. We are not interested in declarative missives or self-indulgent manifestos that trade scrutiny for polemics. We will also pass on "101 pieces" (e.g., introduction to Marxism, introduction to anarchism). There are many reputable outlets with which to publish these kinds of primers. Other than these constraints, the essay format is very flexible. Essays can be long-form or short-form, but we are interested in pieces in the range of 1,000 to 4,000 words.\
 \
@@ -22,4 +22,3 @@ This list is of course not exhaustive. We are receptive to other proposals for s
 \
 We encourage contributors to submit work that has been carefully drafted and thoroughly revised before final submission. Pieces that require less editorial handling will have a higher likelihood of being accepted. Heatwave is an all-volunteer project. \
 \
-*Heatwave offers a small stipend for contributors. The current base rate is $50 per piece, but is negotiable as a sliding scale based on need.*
