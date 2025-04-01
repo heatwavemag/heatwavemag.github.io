@@ -26,7 +26,6 @@ highlight_themes_css = [
   { theme = "material-dark", filename = "syntax-theme-dark.css" },
   { theme = "material-light", filename = "syntax-theme-light.css" },
 ]
-
 [languages]
 
 [languages.en]

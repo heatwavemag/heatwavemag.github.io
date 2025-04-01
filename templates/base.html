@@ -1,5 +1,5 @@
 {% import "macros/social.html" as social_macros %}
-
+{% import "macros/page.html" as page_macros %}
 <!DOCTYPE html>
 <html lang="{% if lang %}{{ lang }}{% else %}en{% endif %}" prefix="og: http://ogp.me/ns#">
 <head>
@@ -35,8 +35,9 @@
     {% set base_url = get_url(path="", lang=lang) %}
     <header>
         <h1 class="site-header">
-            {% set imgTitle = resize_image(path="/static/heatwave-logo", op="fit_width") %}
-            <a href="{{ base_url }}"><img src=".{{ imgTitle.url }}" style="width: auto;height: auto;"></a>
+             {% set imgTitle = resize_image(path="/static/heatwave-logo.png", width=100, op="fit_width") %}
+            <!--<a href="{{ base_url }}"><img src="{{imgTitle.url}}" style="width:60%;height:60%;max-width=100px"></a>-->
+            <a href="{{ base_url }}">{{config.title}}</a>
         </h1>
         <nav>
             <ul>
