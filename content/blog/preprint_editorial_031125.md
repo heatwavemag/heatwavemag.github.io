@@ -240,7 +240,7 @@ all future activity. Uncertainty is given, inquiry is necessary.
 *Heatwave* is our humble offering to this ecosystem. \
 \
 {{ img(path="@/blog/preprint_editorial_031125_media/photo6.jpeg", 
-alt="", caption="While the past is certainly foreclosed, the fog has not yet burned off to reveal tomorrow's horizons", extended_width_pct=-1) }} \
+alt="", caption="While the past is certainly foreclosed, the fog has not yet burned off to reveal tomorrow's horizons.", extended_width_pct=-1) }} \
 *Heatwave* begins with the gambit that communism remains a distinct
 possibility, even if its contours are formless and its prospects bleak.
 The frequency and repetition of today's major conflicts are modulations
@@ -281,7 +281,7 @@ partisan inquiry and preparation elemental to our turbulent, but
 decidedly non-revolutionary times. \
 \
 {{ img(path="@/blog/preprint_editorial_031125_media/photo7.jpeg", 
-alt="", caption="If one lesson has percolated through the cracks and fissures of these moments, it is that every limit is also a condition of possibility", extended_width_pct=-1) }} \
+alt="", caption="Every limit is also a condition of possibility.", extended_width_pct=-1) }} \
 *Heatwave* is a multi-media project dedicated to sharing experiences and
 strategizing together in our efforts to break free from the infernal
 prison of capital. As the world burns and the political horizon grows
@@ -323,6 +323,7 @@ to find it.
 <br />
 
 <p align="right"> <i> &mdash;The editors, March 2025 </i> </p>
+<br />
 
 ---
 [^1]: Issue one of *Heatwave* magazine is scheduled for printing in June
