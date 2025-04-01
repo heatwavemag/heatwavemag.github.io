@@ -4,7 +4,7 @@ date = 2025-04-01
 +++
 
 {{ img(path="@/blog/preprint_editorial_031125_media/photo2.jpeg", 
-alt="", caption="A blood-orange sunset during a wildfire in the state of Oregon.", extended_width_pct=-1) }}
+alt="", caption="Like all years now, 2025 began with fire.", extended_width_pct=-1) }}
 
 \
 **Pre-print Editorial to *Heatwave* #1**[^1] 
@@ -210,7 +210,8 @@ clear representation of the era. The state can do little more than
 dispense violence to manage the decline. Halcyon days indeed. \
 \
 {{ img(path="@/blog/preprint_editorial_031125_media/photo5.jpeg", 
-alt="", caption="The 3rd Precinct in Minnieapolis burns in 2020.", extended_width_pct=-1) }} \
+alt="", caption="We are living in the
+long shadow of defeat, the undertow of the long 2020.", extended_width_pct=-1) }} \
 Chaos and revanchism seem the order of the day. We are living in the
 long shadow of defeat, the undertow of the long 2020. What the coming
 cycles of struggle will bring is unclear. We wish we could promise that
@@ -322,7 +323,7 @@ that peculiar variety we call communism. We must sift through the ashes
 to find it. 
 <br />
 
-<p align="right"> <i> &mdash;The editors, March 2025 </i> </p>
+<p align="right"> <i> &mdash;The editors, April 2025 </i> </p>
 <br />
 
 ---
