@@ -26,9 +26,6 @@ highlight_themes_css = [
   { theme = "material-dark", filename = "syntax-theme-dark.css" },
   { theme = "material-light", filename = "syntax-theme-light.css" },
 ]
-[params.logo]
-path = "static/heatwave-logo.png" # in assets directory
-alt = "Welcome to Heatwave Magazine"
 [languages]
 
 [languages.en]
