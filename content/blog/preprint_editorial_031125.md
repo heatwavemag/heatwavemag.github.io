@@ -1,12 +1,16 @@
 +++
 title = "The Case for Letting the World Burn"
-date = 2025-03-08
+date = 2025-04-01
 +++
 
+{{ img(path="@/blog/preprint_editorial_031125_media/photo2.jpeg", 
+alt="", caption="A blood-orange sunset during a wildfire in the state of Oregon.", extended_width_pct=-1) }}
+
+\
 **Pre-print Editorial to *Heatwave* #1**[^1] 
 
 \
-It's not possible to draw up a balance sheet of the times without
+<font style="font-family: Arial, sans-serif; font-size:55pt; font-style:regular; width: .80em; font-weight: 400; line-height: 52px; float: left; color:rgb(255, 254, 255); padding-top: 10px; padding-bottom: 5px; padding-right: 1px; padding-left: -5px;  margin-right: -30px; margin-bottom: -5px;">I</font>t's not possible to draw up a balance sheet of the times without
 reviewing the ledger of global catastrophe. Chaos, crisis,
 destabilization &mdash; it's hard to even find the words adequate to express
 the architectonic character of the compensations: planetary reprisals
@@ -46,25 +50,9 @@ definite forms as distinct "species of conflagration," to borrow again
 from Davis. The phylogeny of capitalist reproduction ensures the uneven
 development of the apocalypse. \
 \
-Other fires on other shores have proven no less devastating. Ukraine has
-seen its military front recede as Russian advancements have recovered
-territory in the east. Facing such dim prospects, the Trump
-administration has suggested coupling U.S. aid packages and military
-support with privileged access to Ukraine's rare-earth minerals, crucial
-for any revival of manufacturing as part of Trump's promised industrial
-policies. The Sudanese Civil War rages on, drawing belligerents from
-competing commodity chains, extractive hinterlands, and rural surplus
-populations. Beset by widespread famine and millions of
-internally-displaced refugees, the situation is the largest crisis of
-its kind in the world. And, after fifteen months of genocidal wreckage,
-with at least 60,000 dead and over 100,000 missing, Israel finally and
-begrudgingly agreed to an armistice and prisoner exchange with Hamas. At
-present, the fragile Gaza ceasefire holds while Israel continues to
-interfere with aid shipments and escalates its incursions into the West
-Bank, recovering whatever political legitimacy it can among its
-fanatical settler constituency. Meanwhile, Trump appears to be holding
-the ceasefire itself hostage as he threatens Gazans with yet another
-kind of F.I.R.E.: real estate development. \
+{{ img(path="@/blog/preprint_editorial_031125_media/photo2.jpeg", 
+alt="", caption="The L.A. fires earlier this year were the most destructive on record.", extended_width_pct=-1) }} \
+Other fires on other shores have proven no less devastating. Ukraine has seen its military front recede as Russian advancements have recovered territory in the east. While the impasse brought Zelenskyy to the negotiating table, weeks of ceasefire talks have been fraught with tension and posturing, to say the least. With the European project facing such dim prospects, the Trump administration has suggested coupling U.S. aid packages and security with privileged access to Ukraine’s rare-earth minerals, along with its oil and natural gas reserves—crucial for any revival of manufacturing as part of Trump’s promised industrial policies—to be controlled through a joint investment fund. The Sudanese Civil War rages on, drawing belligerents from competing commodity chains, extractive hinterlands, and rural surplus populations. Beset by widespread famine and millions of internally-displaced refugees, the situation is the largest crisis of its kind in the world. And after fifteen months of genocidal wreckage, with at least 50,000 dead and over 100,000 missing, Israel finally and begrudgingly agreed to an armistice and prisoner exchange with Hamas. A return to colonial hostilities seemed all but assured during the brief détente, as Israel flouted the terms of the agreement, continuing to shoot Gazans, interfere with aid shipments, cut off electricity and escalate its incursions into the West Bank, recovering whatever political legitimacy it could among its fanatical settler constituency. After just two months, the fragile ceasefire collapsed under a cascade of missiles and heavy artillery officially dubbed “Operation Might and Sword.” In a single day, the death toll rose by some 400 Palestinians, the majority women and children—one of the deadliest days since the Al-Aqsa Flood. As of this writing, hundreds more have died, over a thousand seriously injured, and over 140,000 displaced, as the IDF resumes ground operations and forced evacuations. In response to Israel’s continuous disruption of humanitarian aid during the ceasefire, Houthis executed over 190 attacks on shipping traffic in the Red Sea. The U.S. responded by hitting Yemen with dozens of airstrikes. Not to be outdone, Israel resumed bombing Lebanon, claiming Hezbollah violated its November 2024 ceasefire agreement.  Meanwhile, Trump continues to threaten Gazans with yet another kind of F.I.R.E.: real estate development. \
 \
 If Palestine is a barometer for liberatory prospects more generally, it
 is telling that the Gaza War should be the most significant conflict
@@ -221,6 +209,8 @@ of the second Trump administration have demonstrated this double bind, a
 clear representation of the era. The state can do little more than
 dispense violence to manage the decline. Halcyon days indeed. \
 \
+{{ img(path="@/blog/preprint_editorial_031125_media/photo5.jpeg", 
+alt="", caption="The 3rd Precinct in Minnieapolis burns in 2020.", extended_width_pct=-1) }} \
 Chaos and revanchism seem the order of the day. We are living in the
 long shadow of defeat, the undertow of the long 2020. What the coming
 cycles of struggle will bring is unclear. We wish we could promise that
@@ -249,6 +239,8 @@ All that's available now is knowledge of the ecology, the conditions of
 all future activity. Uncertainty is given, inquiry is necessary.
 *Heatwave* is our humble offering to this ecosystem. \
 \
+{{ img(path="@/blog/preprint_editorial_031125_media/photo6.jpeg", 
+alt="", caption="", extended_width_pct=-1) }} \
 *Heatwave* begins with the gambit that communism remains a distinct
 possibility, even if its contours are formless and its prospects bleak.
 The frequency and repetition of today's major conflicts are modulations
@@ -288,6 +280,8 @@ Our answer is insufficient, but necessary. Correspondence is a form
 partisan inquiry and preparation elemental to our turbulent, but
 decidedly non-revolutionary times. \
 \
+{{ img(path="@/blog/preprint_editorial_031125_media/photo7.jpeg", 
+alt="", caption="", extended_width_pct=-1) }} \
 *Heatwave* is a multi-media project dedicated to sharing experiences and
 strategizing together in our efforts to break free from the infernal
 prison of capital. As the world burns and the political horizon grows
@@ -356,7 +350,7 @@ to find it.
     to fostering a diverse ecosystem of forms that could facilitate the
     worldwide unleashing of communist measures (centered on
     expropriation) necessary to undermine capitalism and its corollaries
-    (the state, patriarchy, race, etc.). On this latter point, Neel's
+    (the state, gender, race, species). On this latter point, Neel's
     observations in "[The Knife at Your
     Throat](https://brooklynrail.org/2022/10/field-notes/The-Knife-At-Your-Throat/)"
     (*Brooklyn Rail*, October 2022) are instructive: "On their own, both

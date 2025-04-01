@@ -101,7 +101,7 @@ username = "heatwavemag"
 # Footer social links; full options listed in macros/social.html
 [extra.social]
 email = "heatwavemag@proton.me"
-github = "heatwavemag"
+#github = "heatwavemag"
 instagram = "htwvmag"
 twitter = "heatwvmag"
 youtube = "UCqWJW3ld7sN6sVsvTe6jY_w"
