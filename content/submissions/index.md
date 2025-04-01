@@ -1,5 +1,5 @@
 +++
-title = "Submissions"
+title = " "
 render = true
 template = "about.html"
 +++
