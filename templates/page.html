@@ -30,6 +30,8 @@
     {% if page.extra.featured_image_alt %}
     <meta property="og:image:alt" content="{{ page.extra.featured_image_alt }}">
     {% endif %}
+{% else %}
+    <meta property="og:image" content="{{ get_url(path="/static/banner.png") | safe }}">
     {% endif %}
     {% if page.summary %}
     <meta property="og:description" content="{{ page.summary | striptags }}">
