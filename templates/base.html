@@ -35,7 +35,7 @@
     {% set base_url = get_url(path="", lang=lang) %}
     <header>
         <h1 class="site-header">
-            {% set imgTitle = resize_image(path="/static/processed_images/heatwave-logo.png", width=160, op="fit_width") %}
+            {% set imgTitle = resize_image(path="/static/processed_images/heatwave-logo.jpeg", width=160, op="fit_width") %}
             <a href="{{ base_url }}"><img src="{{imgTitle.url}}"></a>
             <!--<a href="{{ base_url }}">{{config.title}}</a>-->
         </h1>
