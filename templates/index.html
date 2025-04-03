@@ -2,15 +2,13 @@
 {% extends "base.html" %}
 {% block ogp_head %}
     <meta property="twitter:card" content="summary">    
-    <meta property="og:title" content="{{ trans(key="about", lang=lang) }} {{config.extra.ogp.first_name}} {{config.extra.ogp.last_name}}">
+    <meta property="og:title" content="{{ config.title }}">
+    <meta property="twitter:title" content="{{ config.title }}">
     <meta property="og:type" content="profile">
-    <meta property="og:locale" content="{{ config.extra.ogp.locale }}">
-    <meta property="og:url" content="{{ page.permalink | safe }}">
-    <meta property="twitter:url"  content="{{ page.permalink | safe }}">
+    <meta property="og:url" content="{{ config.base_url}}">
+    <meta property="twitter:url"  content="{{ config.base_url}}">
     <meta property="og:image" content="{{ get_url(path="/static/banner.png") | safe }}">
-    <meta property="twitter:image" ccontent="{{ get_url(path="/static/banner.png") | safe }}">
-    <meta property="og:title" content="{{ page.title }}">
-    <meta property="twitter:title" ccontent="{{ page.title }}">
+    <meta property="twitter:image" content="{{ get_url(path="/static/banner.png") | safe }}">
 {% endblock %}
 
 {% block content %}
