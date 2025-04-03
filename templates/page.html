@@ -8,7 +8,7 @@
     <meta property="og:locale" content="{{ config.extra.ogp.locale }}">
     {% endif %}
     <meta property="og:title" content="{{ page.title }}">
-    <meta property="twitter:card" content="summary">    
+    <meta property="twitter:card" content="summary_large_image">    
 <meta property="twitter:title" ccontent="{{ page.title }}">
     {% if page.components is containing("projects") or page.components is containing("blog") %}
     <meta property="og:type" content="article">
@@ -34,8 +34,9 @@
     <meta property="og:image:alt" content="{{ page.extra.featured_image_alt }}">
     {% endif %}
 {% else %}
-    <meta property="og:image" content="{{ get_url(path="/static/banner.png") | safe }}">
-    <meta property="twitter:image" ccontent="{{ get_url(path="/static/banner.png") | safe }}">
+    {% set image = resize_image(path="/static/banner.png", width=160, op="fit_width", quality=90) %}
+    <meta property="og:image" content="{{ image.url | safe }}">
+    <meta property="twitter:image" content="{{ image.url | safe }}">
     {% endif %}
     {% if page.summary %}
     <meta property="og:description" content="{{ page.summary | striptags }}">
