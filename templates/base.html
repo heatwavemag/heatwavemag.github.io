@@ -1,4 +1,4 @@
-{% import "macros/social.html" as social_macros %}
+2{% import "macros/social.html" as social_macros %}
 {% import "macros/page.html" as page_macros %}
 <!DOCTYPE html>
 <html lang="{% if lang %}{{ lang }}{% else %}en{% endif %}" prefix="og: http://ogp.me/ns#">
@@ -20,10 +20,10 @@
     {% if config.generate_feed %}
     <link rel="alternate" type={% if config.feed_filename == "atom.xml" %}"application/atom+xml"{% else %}"application/rss+xml"{% endif %} title="RSS" href="{{ get_url(path=config.feed_filename) | safe }}">
     {% endif %}
-    <meta property="og:title" content="{{ config.title }}">
+    <meta property="og:title" content="{{ page.title }}">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="{{ config.extra.ogp.locale }}">
-    <meta property="og:url" content="{{ page.permalink | safe }}">
+    <meta property="og:url" content="{{ page.url | safe }}">
     <meta property="og:image" content="{{ get_url(path="/static/banner.png") | safe }}">
     {% block extra_head %}
     {% endblock extra_head %}
