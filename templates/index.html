@@ -7,7 +7,7 @@
     <meta property="og:type" content="profile">
     <meta property="og:url" content="{{ config.base_url}}">
     <meta property="twitter:url"  content="{{ config.base_url}}">
-    {% set image = resize_image(path="/static/banner.png") %}
+    {% set image = resize_image(path="/static/banner.png", width=160, op="fit_width", quality=90) %}
     <meta property="og:image" content="{{ image.url | safe }}">
     <meta property="twitter:image" content="{{ image.url | safe }}">
 {% endblock %}
