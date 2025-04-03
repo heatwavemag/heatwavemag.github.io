@@ -20,15 +20,11 @@
     {% if config.generate_feed %}
     <link rel="alternate" type={% if config.feed_filename == "atom.xml" %}"application/atom+xml"{% else %}"application/rss+xml"{% endif %} title="RSS" href="{{ get_url(path=config.feed_filename) | safe }}">
     {% endif %}
-
-    % block ogp_head %}
     <meta property="og:title" content="{{ config.title }}">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="{{ config.extra.ogp.locale }}">
     <meta property="og:url" content="{{ page.permalink | safe }}">
     <meta property="og:image" content="{{ get_url(path="/static/banner.png") | safe }}">
-    {% endblock ogp_head %}
-
     {% block extra_head %}
     {% endblock extra_head %}
 </head>
