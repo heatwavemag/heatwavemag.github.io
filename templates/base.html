@@ -36,7 +36,7 @@
     <header>
         <h1 class="site-header">
             {% set imgTitle = resize_image(path="/static/heatwave-logo.jpeg", width=160, op="fit_width") %}
-            <a href="{{ base_url }}"><img src="{{imgTitle.url}}"></a>
+            <a href="{{ base_url }}"><img style="width:40px; height:40px" src="{{imgTitle.url}}"></a>
             <!--<a href="{{ base_url }}">{{config.title}}</a>-->
         </h1>
         <nav>
