@@ -11,16 +11,7 @@ alt="", caption="Like all years now, 2025 began with fire.", extended_width_pct=
 
 \
 <font style="font-family: Arial, sans-serif; font-size:55pt; font-style:regular; width: .80em; font-weight: 400; line-height: 52px; float: left; color:rgb(255, 254, 255); padding-top: 10px; padding-bottom: 5px; padding-right: 1px; padding-left: -5px;  margin-right: -30px; margin-bottom: -5px;">I</font>t's not possible to draw up a balance sheet of the times without
-reviewing the ledger of global catastrophe. Chaos, crisis,
-destabilization &mdash; it's hard to even find the words adequate to express
-the architectonic character of the compensations: planetary reprisals
-meted out in familiar forms, but with unpredictable tempos and a strange
-virulence. *Strange* is perhaps the best we can do for now. The
-tragedy-farce of this historical train wreck is nothing if not uncanny.
-There are no parables that satisfy these moments, when the wreckage
-piles in heaps and clumps, a cruel edifice of defeats, writhing like an
-eldritch abomination roused from ancient slumber, animated through the
-intercourse of the species, yet entirely indifferent to it. \
+reviewing the ledger of global catastrophe. Chaos, crisis, destabilization &mdash; it's hard to even find the words adequate to express the architectonic character of the compensations: planetary reprisals meted out in familiar forms, but with unpredictable tempos and a strange virulence. *Strange* is perhaps the best we can do for now. The tragedy-farce of this historical train wreck is nothing if not uncanny. There are no parables that satisfy these moments, when the wreckage piles in heaps and clumps, a cruel edifice of defeats, writhing like an eldritch abomination roused from ancient slumber, animated through the intercourse of the species, yet entirely indifferent to it. \
 \
 Like all years now, 2025 began with fire. There was of course the
 sequence of wildfires that struck southern California, the most
@@ -39,11 +30,7 @@ predictably crystallize along lines of class, race and nation. While the
 uber-wealthy of the Palisades shelled out daily thousands on private
 firefighting crews to secure their assets, elsewhere California deployed
 800 incarcerated workers, working for dollars a day, on multiple fronts
-to contain the half-dozen winter blazes. Meanwhile, the residents of
-majority non-white Altadena, historically a bulwark of black
-homeownership, were served delayed evacuation orders, with the Eaton
-fire subsequently destroying over 10,000 structures and claiming at
-least 17 deaths at the time of this writing. Almost half of the
+to contain the half-dozen winter blazes. Meanwhile, the residents of majority non-white Altadena, historically a bulwark of black homeownership, were served delayed evacuation orders, with the Eaton fire subsequently destroying over 10,000 structures and claiming at least 17 deaths. Almost half of the
 Altadena's black households were destroyed or damaged. In the
 disintegrating ecology of the planetary factory, catastrophes assume
 definite forms as distinct "species of conflagration," to borrow again
@@ -58,7 +45,7 @@ If Palestine is a barometer for liberatory prospects more generally, it
 is telling that the Gaza War should be the most significant conflict
 since 1973, when the Fourth Arab-Israeli War provided the threshold
 beyond which the global structure of capitalism would be irreparably
-altered. Forced into a detente by Arab states, Israel began officially
+altered. Forced into a détente by Arab states, Israel began officially
 pursuing the "peace process," its utter failure casting a long shadow
 over the subsequent half century. After decades of warfare mediated by
 state actors, Palestinian resistance began to take on a more distributed
@@ -94,7 +81,7 @@ stave off a resurgent far-right by prosecuting a campaign against the
 left, mass politics once again assumed more insurgent forms: Iran,
 France, Haiti, Mexico, Sudan, Algeria, Hong Kong, Chile, Puerto Rico, Lebanon,
 Iraq, Nigeria, Myanmar, Kazakhstan, Sri Lanka &mdash; the list goes on.
-2018-2022 witnessed a sequence of historical uprisings both preceding
+2018-2022 witnessed a sequence of historic uprisings both preceding
 and following the COVID-19 pandemic. In the United States, the George
 Floyd Rebellion became perhaps the largest and most destructive in U.S.
 history, torching and leveling numerous buildings and expropriating
@@ -202,12 +189,7 @@ overcome intractable inflation and other barriers to investment. The
 high interest rates being maintained by central banks threaten another
 debt crisis that will devastate low-income countries. They also deter
 the borrowing necessary for investment in plant and equipment that
-industrial policy is ostensibly intended to promote. Other options to
-promote manufacturing, like the much-discussed tariffs, threaten to
-exacerbate inflation in the prices of basic goods. The first two months
-of the second Trump administration have demonstrated this double bind, a
-clear representation of the era. The state can do little more than
-dispense violence to manage the decline. Halcyon days indeed. \
+industrial policy is ostensibly intended to promote. Other options to promote manufacturing, like the much-discussed tariffs, threaten to exacerbate inflation in the prices of basic goods. Trump’s waffling over these issues has tanked global equities markets and raised the specter of stagflation. The early months of the second Trump administration have demonstrated this double bind, a clear representation of the era. The state can do little more than dispense violence to manage the decline. Halcyon days indeed. \
 \
 {{ img(path="@/blog/preprint_editorial_031125_media/photo5.jpeg", 
 alt="", caption="We are living in the
@@ -218,8 +200,7 @@ cycles of struggle will bring is unclear. We wish we could promise that
 the death of liberalism will become the real death of politics: an end
 to the separation between the political and economic spheres. Rosa
 Luxemburg articulated most clearly that the unity of the two finds
-antagonistic expression in a revolutionary crisis, when the antinomy
-between the struggle *within* and the struggle *against* becomes
+antagonistic expression in a revolutionary crisis, when the antinomy between the struggle *within* and the struggle *against* becomes
 suspended in the emergence of a communist program.[^4] While some kind
 of a collapse is certainly underway, it has not been accompanied by the
 widespread development of organizational, strategic, or tactical forms
@@ -248,7 +229,7 @@ The frequency and repetition of today's major conflicts are modulations
 of a cadence that began in 2005, when social irruptions began to spread
 from the French *banlieues*, the *Zócalo* of Oaxaca, and the *Suea
 Daeng* (Red Shirts) of Thailand to the riots of Exarcheia, the
-occupation of Tahir Square, and the movement of *indignados.* The
+occupation of Tahrir Square, and the movement of *indignados.* The
 movement of squares coalesced from 2011 to 2013, when the financial
 crisis was translated by state administrators into public austerity and
 debt in high- and low-income countries alike, initiating a cycle of
@@ -262,57 +243,16 @@ entirely, so when the fires were extinguished, despair set in. In those
 moments when we glimpse the far horizon, its distant glow can trick us
 into thinking we have entered a moment of rupture.[^6] \
 \
-It is a bitter pill to swallow, but we have not even come close.
-Instead, what we glimpse is the assurance of the inevitable blazes to
-come, the certainty of struggle, if nothing else. Cycles of struggle
-have the habit of reshuffling the deck, suspending time and space and
-providing practical truth to the communist hypothesis: the real death of
-capital is not a given, but a matter of force. If one lesson has
-percolated through the cracks and fissures of these moments, it is that
-every limit is also a condition of possibility. Reading the
-signposts &mdash; the failures, limitations, partial victories, tragedies &mdash; is
-our only guide to the geography of conflict. The communist hypothesis
-cannot be validated in advance of practice, but must instead be
-constructed *in situ,* when the partisan contours begin to take shape
-and choices must be made. That is, the lessons of the past can be
-verified only in the revolutionary shattering of the world. What lessons
-can we suppose today then? How are they to be derived and disseminated?
-Our answer is insufficient, but necessary. Correspondence is a form
-partisan inquiry and preparation elemental to our turbulent, but
-decidedly non-revolutionary times. \
+It is a bitter pill to swallow, but we have not even come close. Instead, what we glimpse is the assurance of the inevitable blazes to come, the certainty of struggle, if nothing else. Cycles of struggle have the habit of reshuffling the deck, suspending time and space and providing practical truth to the communist hypothesis: the real death of capital is not a given, but a matter of force. If one lesson has percolated through the cracks and fissures of these moments, it is that every limit is also a condition of possibility. Reading the signposts &mdash; the failures, limitations, partial victories, tragedies &mdash; is our only guide to the geography of conflict. The communist hypothesis cannot be validated in advance of practice, but must instead be constructed *in situ,* when the partisan contours begin to take shape and choices must be made. That is, the lessons of the past can be verified only in the revolutionary shattering of the world. What lessons can we suppose today then? How are they to be derived and disseminated? Our answer is insufficient, but necessary. Correspondence is a form of partisan inquiry and preparation elemental to our turbulent, but decidedly non-revolutionary times. \
 \
 {{ img(path="@/blog/preprint_editorial_031125_media/photo7.jpeg", 
 alt="", caption="Every limit is also a condition of possibility.", extended_width_pct=-1) }} \
-*Heatwave* is a multi-media project dedicated to sharing experiences and
-strategizing together in our efforts to break free from the infernal
-prison of capital. As the world burns and the political horizon grows
-increasingly grim, we seek to connect comrades around the
-globe and contribute to building something powerful enough to incinerate
-that prison. From its ashes, a vision emerges: a world based on
-the classic principle "from each according to their ability, to each
-according to their need"---a dignified life on a thriving planet. \
+*Heatwave* is a multi-media project dedicated to sharing experiences and strategizing together in our efforts to break free from the infernal prison of capital. As the world burns and the political horizon grows increasingly grim, we seek to connect comrades around the globe and contribute to building something powerful enough to incinerate that prison. From its ashes, a vision emerges: a world based on the classic principle "from each according to their ability, to each according to their need" &mdash; a dignified life on a thriving planet. \
 \
-Most of our current members are based in the U.S., but we aim to become
-an international publication that examines struggles globally. In 2025,
-we're launching our website, a quarterly print magazine, a video
-channel, and social media. The website will provide previews of each new
-issue of the magazine, information about ordering print copies, free
-digital versions of back issues, and printable zines for longer texts.
-The videos will provide alternative presentations of written
-material. Our content will cover a range of topics and genres, including
-reports on recent events, theoretical reflections and analysis,
-interviews with comrades involved in inspiring projects, reviews of
-books and films, original artwork, and literature. \
+Most of our current members are based in the U.S., but we aim to become an international publication that examines struggles globally. In 2025 we're launching our website, a quarterly print magazine, a video channel, and social media. The website will provide previews of each new issue of the magazine, information about ordering print copies, free digital versions of back issues, and printable zines for longer texts. The videos will provide alternative presentations of written material. Our content will cover a range of topics and genres, including reports on recent events, theoretical reflections and analysis, interviews with comrades involved in inspiring projects, reviews of books and films, original artwork, and literature. \
 \
 While there is no shortage of left media, most English-language
-publications offer only partial critiques and tepid
-reformism, or regurgitate debates among 20th-century sects whose
-material foundations disappeared decades ago. We seek to provide more
-rigor and depth than the average radical blog or podcast, but to avoid
-the turgid style of traditional communist polemics and academic
-journals. Politically, we aim to balance inclusivity with coherence by
-publishing pieces from a broad spectrum of contributors based all over
-the world, alongside editorial prefaces providing our own perspective.\
+publications offer only partial critiques and tepid reformism, or regurgitate debates among 20th-century sects whose material foundations disappeared decades ago. We seek to provide more rigor and depth than the average radical blog or podcast, but to avoid the turgid style of traditional communist polemics and academic journals. Politically, we aim to balance inclusivity with coherence by publishing pieces from a broad spectrum of contributors based all over the world, alongside editorial prefaces providing our own perspective.\
 \
 The name "Heatwave" echoes that of an old Situationist
 magazine ("Britain's most incandescent
@@ -344,7 +284,7 @@ to find it.
     Unions*](https://www.marxists.org/archive/luxemburg/1906/mass-strike/)
     (1906).
 
-[^5]: Here want to emphasize two problems: nostalgia for past ideologies
+[^5]: Here we want to to emphasize two problems: nostalgia for past ideologies
     and organizational forms that may be inappropriate or impossible to
     revive *en masse* under current conditions, and the tendency to
     fetishize particular forms to the exclusion of others---as opposed
@@ -356,9 +296,9 @@ to find it.
     Throat](https://brooklynrail.org/2022/10/field-notes/The-Knife-At-Your-Throat/)"
     (*Brooklyn Rail*, October 2022) are instructive: "On their own, both
     illegality and the various forms of self-consciously political
-    organizing---ranging from 'autonomous' activities such as mutual aid
+    organizing &mdash; ranging from 'autonomous' activities such as mutual aid
     to the institutional projects of formal trade unionism or policy
-    advocacy---tend to remain segregated from one another and from the
+    advocacy &mdash; tend to remain segregated from one another and from the
     population at large, with each form romanticized by some political
     faction within the broad but shallow 'Left.' ... If we take a more
     expansive view... the potential to build communist power is just as
