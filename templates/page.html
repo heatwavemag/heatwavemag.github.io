@@ -8,6 +8,8 @@
     <meta property="og:locale" content="{{ config.extra.ogp.locale }}">
     {% endif %}
     <meta property="og:title" content="{{ page.title }}">
+    <meta property="twitter:card" content="summary">    
+<meta property="twitter:title" ccontent="{{ page.title }}">
     {% if page.components is containing("projects") or page.components is containing("blog") %}
     <meta property="og:type" content="article">
     <meta property="article:author" content="{{ get_url(path='@/about/index.md') | safe }}">
@@ -24,6 +26,7 @@
     <meta property="og:type" content="website">
     {% endif %}
     <meta property="og:url" content="{{ page.permalink | safe }}">
+    <meta property="twitter:url"  content="{{ page.permalink | safe }}">
     {% if page.extra.featured_image %}
     {% set page_permalink = page.permalink | safe %}
     <meta property="og:image" content="{{ page_permalink ~ page.extra.featured_image }}">
@@ -32,10 +35,13 @@
     {% endif %}
 {% else %}
     <meta property="og:image" content="{{ get_url(path="/static/banner.png") | safe }}">
+    <meta property="twitter:image" ccontent="{{ get_url(path="/static/banner.png") | safe }}">
     {% endif %}
     {% if page.summary %}
     <meta property="og:description" content="{{ page.summary | striptags }}">
+    <meta property="twitter:description" content="{{ page.summary | striptags }}">
     {% endif %}
+
 {% endblock %}
 
 {% block content %}
