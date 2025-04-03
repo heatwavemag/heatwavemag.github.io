@@ -4,6 +4,10 @@ date = 2025-03-01
 
 +++
 
+This part of the world is no stranger to flooding. Valencia, which is the third largest city in Spain, is on the Mediterranean coast where the river Turia flows into the sea.
+
+<!-- more -->
+
 {{ img(path="@/blog/class_dis_030825_media/photo1.jpeg", 
 alt="", caption="Wreckage from the Valencia floods piled up in a nearby neighborhood.", extended_width_pct=-1) }}
 

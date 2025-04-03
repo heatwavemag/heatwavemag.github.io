@@ -3,6 +3,13 @@ title = "The Case for Letting the World Burn"
 date = 2025-04-01
 +++
 
+Like all years now, 2025 began with fire. There was of course the
+sequence of wildfires that struck southern California, the most
+destructive to date, and the most expensive natural disaster in United
+States history.
+
+<!-- more -->
+
 {{ img(path="@/blog/preprint_editorial_031125_media/photo2.jpeg", 
 alt="", caption="Like all years now, 2025 began with fire.", extended_width_pct=-1) }}
 
@@ -263,7 +270,7 @@ that peculiar variety we call communism. We must sift through the ashes
 to find it. 
 <br />
 
-<p align="right"> <i> &mdash;The editors, April 2025 </i> </p>
+<p align="right"> <i> &mdash;The editors, March 2025 </i> </p>
 <br />
 
 ---
@@ -287,7 +294,7 @@ to find it.
 [^5]: Here we want to to emphasize two problems: nostalgia for past ideologies
     and organizational forms that may be inappropriate or impossible to
     revive *en masse* under current conditions, and the tendency to
-    fetishize particular forms to the exclusion of others---as opposed
+    fetishize particular forms to the exclusion of others &mdash; as opposed
     to fostering a diverse ecosystem of forms that could facilitate the
     worldwide unleashing of communist measures (centered on
     expropriation) necessary to undermine capitalism and its corollaries
