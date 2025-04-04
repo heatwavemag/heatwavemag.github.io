@@ -26,6 +26,14 @@
   </a>
   {% endif %}
 
+  {% if social_config.facebook %}
+  <a href="https://www.facebook.com/{{ social_config.facebook }}" aria-label="Open {{ social_config.facebook }} Facebook" target="_blank">
+    <span class="icon is-large">
+      <i class="fab fa-facebook fa-lg" aria-hidden="true" title="Facebook"></i>
+    </span>
+  </a>
+  {% endif %}
+
   {% if social_config.tiktok %}
   <a href="https://tiktok.com/{{ social_config.tiktok }}" aria-label="Open {{ social_config.tiktok }} TikTok" target="_blank">
     <span class="icon is-large">

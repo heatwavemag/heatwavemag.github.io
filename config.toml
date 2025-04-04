@@ -104,8 +104,10 @@ email = "heatwavemag@proton.me"
 instagram = "htwvmag"
 twitter = "heatwvmag"
 youtube = "UCqWJW3ld7sN6sVsvTe6jY_w"
+facebook = "htwvmag"
 tiktok = "@htwvmag"
 patreon = "158785705"
+
 
 # CDN links
 [extra.cdn]

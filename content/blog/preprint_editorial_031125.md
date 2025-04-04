@@ -87,7 +87,7 @@ ersatz-social democracy, with the liberal center only barely able to
 stave off a resurgent far-right by prosecuting a campaign against the
 left, mass politics once again assumed more insurgent forms: Iran,
 France, Haiti, Mexico, Sudan, Algeria, Hong Kong, Chile, Puerto Rico, Lebanon,
-Iraq, Nigeria, Myanmar, Kazakhstan, Sri Lanka &mdash; the list goes on.
+Iraq, Nigeria, Myanmar, Kanaky, Kazakhstan, Sri Lanka &mdash; the list goes on.
 2018-2022 witnessed a sequence of historic uprisings both preceding
 and following the COVID-19 pandemic. In the United States, the George
 Floyd Rebellion became perhaps the largest and most destructive in U.S.
@@ -128,7 +128,7 @@ restive populace who can no longer afford basic goods. Neither option
 can address the structural causes of inflation. Since early 2022, we
 have been caught in a holding pattern of inflation struggles over the
 price of inputs and consumer goods, oscillating between the food riots
-of Sri Lanka, Iraq, Sudan, Ecuador or Peru, on the one hand, and the
+of Sri Lanka, Iraq, Martinique, Sudan, Ecuador or Peru, on the one hand, and the
 farmers' protests that have spread across the European Union, Latin
 America, and India on the other. If anything unites these struggles it
 is the mere inability to survive the post-pandemic order, with prices
@@ -333,3 +333,5 @@ to find it.
     lessons, "[What Was To Be Done? Protest and Revolution in the
     2010s](https://brooklynrail.org/2024/06/field-notes/What-Was-To-Be-Done-Protest-and-Revolution-in-the-2010s/),"
     *Brooklyn Rail*, June 2024.
+
+### Photo Credits: Freewheelinizgood4U, DurtyClean
