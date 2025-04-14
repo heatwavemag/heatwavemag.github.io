@@ -26,12 +26,11 @@ highlight_themes_css = [
   { theme = "material-dark", filename = "syntax-theme-dark.css" },
   { theme = "material-light", filename = "syntax-theme-light.css" },
 ]
-
 [languages]
 
 [languages.en]
 title = "Heatwave"
-description = "For a World on Fire"
+description = " "
 # The taxonomies to be rendered for the site and their configuration of the default languages
 taxonomies = [
     { name = "tags", lang = "en" },
@@ -39,22 +38,27 @@ taxonomies = [
 ]
 
 [languages.en.translations]
-projects = "Print"
 blog = "Magazine"
 about = "About"
 submissions = "Submissions"
 subscribe = "Subscribe"
+projects = "Print"
 recent_projects = ""
 more_projects = "More"
-recent_blog_posts = "Recent"
+recent_blog_posts = "Issue 1 Previews"
 more_blog_posts = "More"
-tag = "Tag"
-tags = "Tags"
-to_all_tags = "To all tags"
-category = "Category"
-categories = "Categories"
-to_all_categories = "To all categories"
-view_by = "View by"
+# tag = "Tag" ## original setting
+# tags = "Tags" ## original setting
+# to_all_tags = "To all tags" ## original setting
+# category = "Category" ## original setting
+# categories = "Categories" ## original setting
+tag = ""
+tags = ""
+to_all_tags = ""
+category = ""
+categories = ""
+to_all_categories = ""
+view_by = " " ## don't need this
 other = "Other"
 minute = "min"
 prev_page = "To newer posts"
@@ -68,16 +72,16 @@ date_format = "%B %e, %Y"
 env = "ZOLA_ENV"
 
 # Color theme mode. Options: light, dark, auto (automatically switch depending on OS/user agent settings)
-color_mode = "auto"
+color_mode = "dark"
 
 # List of Papaya navigational menu items. Used to construct the navigation bar. See the README for item schema.
 menu_items = [
-    { name = "projects", url = "$LANG_BASE_URL/projects",  show_recent = false},
     { name = "blog", url = "$LANG_BASE_URL/blog", show_recent = true, recent_items = 3, recent_trans_key = "recent_blog_posts", more_trans_key = "more_blog_posts" },
     # tag is not a zola section, it's just a link.
     { name = "about", url = "$LANG_BASE_URL/about", show_recent = false },
     { name = "submissions", url = "$LANG_BASE_URL/submissions", show_recent = false },
     { name = "subscribe", url = "$LANG_BASE_URL/subscribe", show_recent = false },
+    { name = "projects", url = "$LANG_BASE_URL/projects",  show_recent = false},
     { name = "tags", url = "$LANG_BASE_URL/tags" },
 ]
 
@@ -96,13 +100,13 @@ username = "heatwavemag"
 # Footer social links; full options listed in macros/social.html
 [extra.social]
 email = "heatwavemag@proton.me"
-github = "heatwavemag"
+#github = "heatwavemag"
 instagram = "htwvmag"
-twitter = "htwvmag"
+twitter = "heatwvmag"
 youtube = "UCqWJW3ld7sN6sVsvTe6jY_w"
+facebook = "htwvmag"
 tiktok = "@htwvmag"
 patreon = "158785705"
-#bilibili = "your-user-name"
 
 
 # CDN links

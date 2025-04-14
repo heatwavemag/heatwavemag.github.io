@@ -4,15 +4,17 @@
 {% block title %}{{ trans(key="about", lang=lang) }} {{config.extra.ogp.first_name}} {{config.extra.ogp.last_name}}{% endblock title %}
 
 {% block ogp_head %}
-    <meta property="og:title" content="{{ trans(key="about", lang=lang) }} {{config.extra.ogp.first_name}} {{config.extra.ogp.last_name}}">
-    <meta property="og:type" content="profile">
     <meta property="og:locale" content="{{ config.extra.ogp.locale }}">
+    <meta property="twitter:card" content="summary_large_image">    
+    <meta property="og:title" content="{{ trans(key="about", lang=lang) }} {{config.extra.ogp.first_name}} {{config.extra.ogp.last_name}}">
+    <meta property="twitter:title" content="{{ trans(key="about", lang=lang) }} {{config.extra.ogp.first_name}} {{config.extra.ogp.last_name}}">
+    <meta property="og:type" content="profile">
     <meta property="og:url" content="{{ page.permalink | safe }}">
-    <meta property="og:image" content="{{ get_url(path="/about/me.jpg") | safe }}">
-    <meta property="profile:first_name" content="{{ config.extra.ogp.first_name }}">
-    <meta property="profile:last_name" content="{{ config.extra.ogp.last_name }}">
-    <meta property="profile:gender" content="{{ config.extra.ogp.gender }}">
-    <meta property="profile:username" content="{{ config.extra.ogp.username }}">
+    <meta property="twitter:url"  content="{{ page.permalink | safe }}">
+    {% set image = resize_image(path="/static/banner.png", width=160, op="fit_width", quality=90) %}
+    <meta property="og:image" content="{{ image.url | safe }}">
+    <meta property="twitter:image" content="{{ image.url | safe }}">
+<meta name="twitter:description" content="Heatwave is a multi-media project dedicated to sharing experiences and strategizing together in preparation for the next round of struggles to break free from the infernal prison of capital.">
 {% endblock %}
 
 {% block content %}

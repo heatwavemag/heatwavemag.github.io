@@ -1,5 +1,5 @@
 {% import "macros/social.html" as social_macros %}
-
+{% import "macros/page.html" as page_macros %}
 <!DOCTYPE html>
 <html lang="{% if lang %}{{ lang }}{% else %}en{% endif %}" prefix="og: http://ogp.me/ns#">
 <head>
@@ -17,17 +17,14 @@
 
     <link rel="preload" href={{ config.extra.cdn.font_awesome }} as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href={{ config.extra.cdn.font_awesome }}></noscript>
-
     {% if config.generate_feed %}
     <link rel="alternate" type={% if config.feed_filename == "atom.xml" %}"application/atom+xml"{% else %}"application/rss+xml"{% endif %} title="RSS" href="{{ get_url(path=config.feed_filename) | safe }}">
     {% endif %}
-
     {% block ogp_head %}
-    <meta property="og:title" content="{{ config.title }}">
-    <meta property="og:type" content="website">
-    {% endblock ogp_head %}
-
+   
+    {% endblock %}
     {% block extra_head %}
+    
     {% endblock extra_head %}
 </head>
 <body>
@@ -36,7 +33,9 @@
     {% set base_url = get_url(path="", lang=lang) %}
     <header>
         <h1 class="site-header">
-            <a href="{{ base_url }}">{{ config.title }}</a>
+            {% set imgTitle = resize_image(path="/static/heatwave-logo-transparent.png", width=160, op="fit_width") %}
+            <a href="{{ base_url }}"><img style="width:40px; height:40px" src="{{imgTitle.url}}"></a>
+            <!--<a href="{{ base_url }}">{{config.title}}</a>-->
         </h1>
         <nav>
             <ul>
