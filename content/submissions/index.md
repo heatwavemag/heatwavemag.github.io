@@ -18,7 +18,7 @@ We encourage original submissions in a variety of forms, including essays, polit
 \
 **Visual media:** We include here art, political cartoons, infographics, photography, but are open to other submission inquiries. \
 \
-This list is of course not exhaustive. We are receptive to other proposals for submissions. Please send all pitches to [heatwavemag@proton.me](heatwavemag@proton.me). \
+This list is of course not exhaustive. We are receptive to other proposals for submissions. Please send all pitches to [heatwavemag@proton.me]. \
 \
 We encourage contributors to submit work that has been carefully drafted and thoroughly revised before final submission. Pieces that require less editorial handling will have a higher likelihood of being accepted. Heatwave is an all-volunteer project.
 
