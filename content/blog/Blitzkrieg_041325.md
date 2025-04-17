@@ -9,9 +9,6 @@ In the the first five weeks of Trump's second term, *The New York Times* ran six
 {{ img(path="@/blog/Blitzkrieg_041325_media/photo1.jpeg", 
 alt="", caption="In the face of the blitzkrieg, the liberals can't stop Trump now.", extended_width_pct=-1) }}
 
-\
-**On the Trump Blitzkrieg** 
-
 
 
 **by S. Darby**
