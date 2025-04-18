@@ -104,7 +104,7 @@ this fact. \
 \
 Once in office, the administration didn't delay in implementing its
 plans. Trump signed an executive order that denies the constitutional
-right to citizenship for anyone born in the U.S. The Senate is now
+birthright to citizenship. The Senate is now
 pushing forward a budget that funds mass deportations and a border wall.
 Trump's allies propose camps. They want to deputize 10,000 private
 citizens, empowering them to round up their neighbors. Trump removed a
@@ -154,15 +154,15 @@ cadre of professional operatives, some of whom are young and energized
 while others are savvy and experienced. \
 \
 Some of us were surprised that such an ambitious and profoundly
-unpopular project could ascend to such heights of power. They were not
+unpopular project could ascend to such heights of power. The architects of Project 2025 were not
 surprised; they were prepared. Describing the Department of State in the
 Project 2025 *Mandate for Leadership*, Kiron K. Skinner frames the
 incoming Trump administration as a minoritarian faction within the
-broader U.S. State bureaucracy. He anticipated stark resistance to a
+broader U.S. State bureaucracy. She anticipated stark resistance to a
 \"conservative\" agenda because "large swaths of the State Department\'s
 workforce are left-wing."[^11] (Though, of course, "left" means
 something entirely different to us, the point here is that they are
-internal enemies.) Nevertheless, they built a strong-enough coalition
+internal enemies.) Nevertheless, the MAGA Right built a sufficiently strong coalition
 that they are now dictating the policies of American government. They
 are playing by Carl Schmitt's rules: as the sovereign, Trump gets to
 define the exceptions. They planned to have Trump sign these 70-some
