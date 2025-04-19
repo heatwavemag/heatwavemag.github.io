@@ -1,7 +1,7 @@
 +++
 title = "Subscribe To Our Patreon!"
 render = true
-template = "about.html"
+template = "subscribe.html"
 +++
 
 Heatwave is a multi-media project dedicated to sharing our experiences and strategizing together in preparation for the next round of struggles to break free from the infernal prison of capital.  \
