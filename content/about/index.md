@@ -14,5 +14,3 @@ While there is no shortage of left media, most English-language publications off
 *Our name “Heatwave” echoes that of an old Situationist magazine (“Britain’s most incandescent journal" of 1966), but with added urgency in an era where every summer is the hottest on record.* 
 
 &nbsp;
-
-{{ img(path="@/about/me.png", class="bordered", alt="", caption="") }}
