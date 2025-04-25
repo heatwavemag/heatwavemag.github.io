@@ -84,32 +84,32 @@ h3 {
 /* Links */
 
 a {
-    color: var(--link-color);
-    text-decoration: none;
+    color: var(--link-color) !important;
+    text-decoration: none !important;
 }
 
 a:active,
 a:hover {
-    outline: 0;
+    outline: 0 !important;
 }
 
 a:hover,
 a:focus {
-    color: var(--link-hover-color);
-    border-bottom: 1px solid var(--link-hover-line-color);
-    transition: all 0.1s linear;
+    color: var(--link-hover-color) !important;
+    border-bottom: 1px solid var(--link-hover-line-color) !important;
+    transition: all 0.1s linear !important;
 }
 
 a:active {
-    color: var(--link-hover-color);
-    opacity: 0.9;
-    border-bottom: 1px solid var(--link-hover-line-color);
-    transition: all 0.1s linear;
+    color: var(--link-hover-color) !important;
+    opacity: 0.9 !important;
+    border-bottom: 1px solid var(--link-hover-line-color) !important;
+    transition: all 0.1s linear !important;
 }
 
 a.active {
-    color: var(--link-hover-color);
-    transition: all 0.1s linear;
+    color: var(--link-hover-color) !important;
+    transition: all 0.1s linear !important;
 }
 
 /* Table */
