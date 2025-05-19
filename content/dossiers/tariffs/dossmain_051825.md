@@ -15,7 +15,7 @@ alt="", caption="Trump's 'Liberation Day' announcement was ostensibly intended t
 
 ## **International Perspectives on the MAGA 2.0 Tariffs**
 
-In this first dossier edited by the Heatwave media collective, we
+<font style="font-family: Arial, sans-serif; font-size:55pt; font-style:regular; width: .80em; font-weight: 400; line-height: 52px; float: left; color:rgb(255, 254, 255); padding-top: 10px; padding-bottom: 5px; padding-right: 1px; padding-left: -5px;  margin-right: -30px; margin-bottom: -5px;">I</font>n this first dossier edited by the Heatwave media collective, we
 present a series of short articles by communists from various countries
 about the local impacts of the second Trump administration's
 international policies &mdash; focusing specifically on the tariffs. We will
