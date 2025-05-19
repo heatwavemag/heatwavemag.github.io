@@ -12,7 +12,7 @@
     <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="/magazine/issue1/" target="_blank">
+      <a href="/magazine/issue1/" target="_self">
         {% set thumbnail_img = resize_image(path="/content/magazine/issue1/magazine-page-assets/cover.png", width=672, op="fit_width") %}
         <img src="{{ thumbnail_img.url }}" alt="Issue 1" style="width:100%">
         <div class="caption">
@@ -25,7 +25,7 @@
   </div>
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="/dossiers/tariffs/" target="_blank">
+      <a href="/dossiers/tariffs/" target="_self">
         {% set thumbnail_img = resize_image(path="/content/magazine/issue1/magazine-page-assets/dossier.png", width=672, op="fit_width") %}
         <img src="{{ thumbnail_img.url }}" alt="Dossiers" style="width:100%">
         <div class="caption">
