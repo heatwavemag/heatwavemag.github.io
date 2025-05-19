@@ -28,7 +28,26 @@
 {% endblock %}
 
 {% block content %}
+<h4>Subscribe To Our Patreon!</h4>
+<p>Heatwave is a multi-media project dedicated to sharing our experiences and strategizing together in preparation for the next round of struggles to break free from the infernal prison of capital. <br />
+<br />
+We publish Heatwave Magazine quarterly and additional content sporadically. We are an entirely independent project with no institutional funding, financed primarily through subscriptions. To support us and receive print copies of each issue and access additional content when it's released, subscribe at our Patreon by clicking below:</p>
+<main id="main" tabindex="-1">
+    <div class="container">
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="https://www.patreon.com/profile/creators?u=158785705" target="_blank">
+        {% set thumbnail_img = resize_image(path="/content/subscribe/subscribe.png", width=672, op="fit_width") %}
+        <center>
+        <img src="{{ thumbnail_img.url }}" alt="About Heatwave" style="width:50%">
+        </center>
+        <br />
+        </div>
+      </a>
+    </div>
+  </div> 
 <article class="post">
+    <p>For periodic news and updates about Heatwave, subscribe to our mailing list below: </p>
         <header>
             <h1>{{ page.title }}</h1>
         </header>
@@ -72,4 +91,5 @@
       </div>
     </div>
 </article>
+
 {% endblock content %}

@@ -10,7 +10,7 @@ States history.
 
 <!-- more -->
 
-{{ img(path="@/blog/preprint_editorial_031125_media/photo2.jpeg", 
+{{ img(path="@/magazine/issue1/preprint_editorial_031125_media/photo2.jpeg", 
 alt="", caption="Like all years now, 2025 began with fire.", extended_width_pct=-1) }}
 
 \
@@ -44,7 +44,7 @@ definite forms as distinct "species of conflagration," to borrow again
 from Davis. The phylogeny of capitalist reproduction ensures the uneven
 development of the apocalypse. \
 \
-{{ img(path="@/blog/preprint_editorial_031125_media/photo1.jpeg", 
+{{ img(path="@/magazine/issue1/preprint_editorial_031125_media/photo1.jpeg", 
 alt="", caption="The L.A. fires earlier this year were the most destructive on record.", extended_width_pct=-1) }} \
 Other fires on other shores have proven no less devastating. Ukraine has seen its military front recede as Russian advancements have recovered territory in the east. While the impasse brought Zelenskyy to the negotiating table, weeks of ceasefire talks have been fraught with tension and posturing, to say the least. With the European project facing such dim prospects, the Trump administration has suggested coupling U.S. aid packages and security with privileged access to Ukraine’s rare-earth minerals, along with its oil and natural gas reserves—crucial for any revival of manufacturing as part of Trump’s promised industrial policies—to be controlled through a joint investment fund. The Sudanese Civil War rages on, drawing belligerents from competing commodity chains, extractive hinterlands, and rural surplus populations. Beset by widespread famine and millions of internally-displaced refugees, the situation is the largest crisis of its kind in the world. And after fifteen months of genocidal wreckage, with at least 50,000 dead and over 100,000 missing, Israel finally and begrudgingly agreed to an armistice and prisoner exchange with Hamas. A return to colonial hostilities seemed all but assured during the brief détente, as Israel flouted the terms of the agreement, continuing to shoot Gazans, interfere with aid shipments, cut off electricity and escalate its incursions into the West Bank, recovering whatever political legitimacy it could among its fanatical settler constituency. After just two months, the fragile ceasefire collapsed under a cascade of missiles and heavy artillery officially dubbed “Operation Might and Sword.” In a single day, the death toll rose by some 400 Palestinians, the majority women and children—one of the deadliest days since the Al-Aqsa Flood. As of this writing, hundreds more have died, over a thousand seriously injured, and over 140,000 displaced, as the IDF resumes ground operations and forced evacuations. In response to Israel’s continuous disruption of humanitarian aid during the ceasefire, Houthis executed over 190 attacks on shipping traffic in the Red Sea. The U.S. responded by hitting Yemen with dozens of airstrikes. Not to be outdone, Israel resumed bombing Lebanon, claiming Hezbollah violated its November 2024 ceasefire agreement.  Meanwhile, Trump continues to threaten Gazans with yet another kind of F.I.R.E.: real estate development. \
 \
@@ -198,7 +198,7 @@ debt crisis that will devastate low-income countries. They also deter
 the borrowing necessary for investment in plant and equipment that
 industrial policy is ostensibly intended to promote. Other options to promote manufacturing, like the much-discussed tariffs, threaten to exacerbate inflation in the prices of basic goods. Trump’s waffling over these issues has tanked global equities markets and raised the specter of stagflation. The early months of the second Trump administration have demonstrated this double bind, a clear representation of the era. The state can do little more than dispense violence to manage the decline. Halcyon days indeed. \
 \
-{{ img(path="@/blog/preprint_editorial_031125_media/photo5.jpeg", 
+{{ img(path="@/magazine/issue1/preprint_editorial_031125_media/photo5.jpeg", 
 alt="", caption="We are living in the
 long shadow of defeat, the undertow of the long 2020.", extended_width_pct=-1) }} \
 Chaos and revanchism seem the order of the day. We are living in the
@@ -228,7 +228,7 @@ All that's available now is knowledge of the ecology, the conditions of
 all future activity. Uncertainty is given, inquiry is necessary.
 *Heatwave* is our humble offering to this ecosystem. \
 \
-{{ img(path="@/blog/preprint_editorial_031125_media/photo6.jpeg", 
+{{ img(path="@/magazine/issue1/preprint_editorial_031125_media/photo6.jpeg", 
 alt="", caption="While the past is certainly foreclosed, the fog has not yet burned off to reveal tomorrow's horizons.", extended_width_pct=-1) }} \
 *Heatwave* begins with the gambit that communism remains a distinct
 possibility, even if its contours are formless and its prospects bleak.
@@ -252,7 +252,7 @@ into thinking we have entered a moment of rupture.[^6] \
 \
 It is a bitter pill to swallow, but we have not even come close. Instead, what we glimpse is the assurance of the inevitable blazes to come, the certainty of struggle, if nothing else. Cycles of struggle have the habit of reshuffling the deck, suspending time and space and providing practical truth to the communist hypothesis: the real death of capital is not a given, but a matter of force. If one lesson has percolated through the cracks and fissures of these moments, it is that every limit is also a condition of possibility. Reading the signposts &mdash; the failures, limitations, partial victories, tragedies &mdash; is our only guide to the geography of conflict. The communist hypothesis cannot be validated in advance of practice, but must instead be constructed *in situ,* when the partisan contours begin to take shape and choices must be made. That is, the lessons of the past can be verified only in the revolutionary shattering of the world. What lessons can we suppose today then? How are they to be derived and disseminated? Our answer is insufficient, but necessary. Correspondence is a form of partisan inquiry and preparation elemental to our turbulent, but decidedly non-revolutionary times. \
 \
-{{ img(path="@/blog/preprint_editorial_031125_media/photo7.jpeg", 
+{{ img(path="@/magazine/issue1/preprint_editorial_031125_media/photo7.jpeg", 
 alt="", caption="Every limit is also a condition of possibility.", extended_width_pct=-1) }} \
 *Heatwave* is a multi-media project dedicated to sharing experiences and strategizing together in our efforts to break free from the infernal prison of capital. As the world burns and the political horizon grows increasingly grim, we seek to connect comrades around the globe and contribute to building something powerful enough to incinerate that prison. From its ashes, a vision emerges: a world based on the classic principle "from each according to their ability, to each according to their need" &mdash; a dignified life on a thriving planet. \
 \

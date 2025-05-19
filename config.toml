@@ -38,7 +38,8 @@ taxonomies = [
 ]
 
 [languages.en.translations]
-blog = "Magazine"
+blog = " "
+magazine = "Magazine"
 about = "About"
 submissions = "Submissions"
 subscribe = "Subscribe"
@@ -47,6 +48,8 @@ recent_projects = ""
 more_projects = "More"
 recent_blog_posts = "Issue 1 Previews"
 more_blog_posts = "More"
+recent_magazine_posts = "Issue 1 Previews"
+more_magazine_posts = "More"
 # tag = "Tag" ## original setting
 # tags = "Tags" ## original setting
 # to_all_tags = "To all tags" ## original setting
@@ -79,6 +82,7 @@ menu_items = [
     { name = "blog", url = "$LANG_BASE_URL/blog", show_recent = true, recent_items = 3, recent_trans_key = "recent_blog_posts", more_trans_key = "more_blog_posts" },
     # tag is not a zola section, it's just a link.
     { name = "about", url = "$LANG_BASE_URL/about", show_recent = false },
+    { name = "magazine", url = "$LANG_BASE_URL/magazine", show_recent = false },
     { name = "submissions", url = "$LANG_BASE_URL/submissions", show_recent = false },
     { name = "subscribe", url = "$LANG_BASE_URL/subscribe", show_recent = false },
     { name = "projects", url = "$LANG_BASE_URL/projects",  show_recent = false},

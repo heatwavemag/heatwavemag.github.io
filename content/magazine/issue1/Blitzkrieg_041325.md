@@ -6,7 +6,7 @@ date = 2025-04-13
 In the the first five weeks of Trump's second term, *The New York Times* ran six separate opinion pieces describing the experience as a "blitzkrieg."
 
 <!-- more -->
-{{ img(path="@/blog/Blitzkrieg_041325_media/photo1.jpeg", 
+{{ img(path="@/magazine/issue1/Blitzkrieg_041325_media/photo1.jpeg", 
 alt="", caption="In the face of the blitzkrieg, the liberals can't stop Trump now.", extended_width_pct=-1) }}
 
 
