@@ -10,7 +10,7 @@ Australia has responded to Trump's recent tariff announcements.
 
 <!-- more -->
 {{ img(path="@/dossiers/tariffs/Clearingouse_051925_media/clearinghouse.png", 
-alt="", caption="Australia's second largest goods export to the US is gold.", extended_width_pct=-1) }}
+alt="", caption="Mount Whaleback iron ore mine in Western Australia next to the town of Newman. (Credit: Tor Lindstrand.)", extended_width_pct=-1) }}
 
 *First installment of the dossier* Madness and Civilization: International Perspectives on the MAGA 2.0 Tariffs, *edited by the Heatwave media collective*
 <br />
@@ -110,8 +110,7 @@ In Australia" bill.[^12]
 
 Direct impacts to Australia's trade with the US have been limited so
 far, with the US accounting for only 6% of Australia's goods exports in
-2023-24.[^13] Australia's main exports to the US are services, which
-can't be tariffed as easily as goods arriving in a port. However, 26% of
+2023-24.[^13] Services, which can't be tariffed as easily as goods arriving in a port, have been an increasingly important component of Australian exports to the US, although not yet on the scale of goods. However, 26% of
 Australia's two-way trade is with China,[^14] and while decreased
 exports to the US may not deeply affect primary producers in Australia,
 greater impacts may be felt if the Chinese and Southeast Asian markets
@@ -192,6 +191,7 @@ becoming more and more important in the looming tech/arms race.
 According to one site, "recently Japan, Korea and some European nations
 have either signed agreements or started talks with the Albanese
 Government to secure access to Australian minerals."[^22]
+<br />
 <br />
 With the current absence of any collective subject within the region to
 serve as a reference point, talk of identifying "openings" strikes us as
@@ -368,7 +368,7 @@ Correspondence is welcomed at [clearinghouse@proton.me](mailto:clearinghouse@pro
     prices](https://www.abc.net.au/news/2025-04-08/australia-new-gold-rush-driven-by-high-price-and-demand/105064920)."
 
 [^18]: Raffaele Sciortino (2024), *The US--China Rift and Its Impact on
-    Globalisation*, Haymarket, p. 4.]
+    Globalisation*, Haymarket, p. 4.
 
 [^19]: Hugh Piper, "[Australia Needs a Foreign Policy for its
     Superannuation
