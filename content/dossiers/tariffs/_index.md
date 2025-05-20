@@ -4,9 +4,8 @@ title = "Blog"
 sort_by = "date"
 paginate_by = 10
 render = true
-template = "blog.html"
+template = "dossier.html"
 
 insert_anchor_links = "right"
 +++
 
-## Issue 1 previews

@@ -3,10 +3,10 @@ title = "Madness and Capitalist Civilization"
 date = 2025-05-20
 +++
 
-In this first dossier edited by the Heatwave media collective, we
-present a series of short articles by communists from various countries
-about the local impacts of the second Trump administration's
-international policies &mdash; focusing specifically on the tariffs.
+Even before "Liberation Day," our social media feeds were awash with the
+speculation and drama of the second Trump administration. The exigencies
+of daily life make it difficult if not impossible to stay up-to-date on
+all the horrors and indignities. 
 
 <!-- more -->
 {{ img(path="@/magazine/issue1/magazine-page-assets/dossier.png", 

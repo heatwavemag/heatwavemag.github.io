@@ -7,9 +7,13 @@
 {% block title %}{{ trans(key="blog", lang=lang) }} - {{ config.title }}{% endblock title %}
 
 {% block content %}
+
 <main id="main" tabindex="-1">
     <div class="container">
     <div class="row">
+      <div class="text-block">
+      <h2> <b> Issues <hr style="width:35%"> </b>  </h2>
+      </div> 
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="/magazine/issue1/" target="_self">
@@ -23,6 +27,10 @@
       </a>
     </div>
   </div>
+   <div class="text-block">
+        <h2> <b> Dossiers <hr style="width:35%"> </b> </h2>
+ </div> 
+
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="/dossiers/tariffs/" target="_self">
@@ -30,7 +38,7 @@
         <img src="{{ thumbnail_img.url }}" alt="Dossiers" style="width:100%">
         <div class="caption">
           <center>
-          <p>Dossiers</p>
+          <p>Tariff Dossier</p>
           </center>
         </div>
       </a>
