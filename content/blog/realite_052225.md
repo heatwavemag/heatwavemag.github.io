@@ -11,6 +11,9 @@ session, devoted to the \"Miran Doctrine\" and its implications for the
 international circuit of capital.
 
 <!-- more -->
+{{ img(path="@/dossiers/tariffs/realite_052225_media/realite.png", 
+alt="", caption="At the heart of the "Miran Doctrine" lies a reversal of the usual view of the U.S. dollar.", extended_width_pct=-1) }}
+
 
 > [**Réalité**](https://realite.world/) *is a France based collective that confronts
 > the turbulence of the present moment with the demand for a rigorous
