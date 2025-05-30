@@ -560,6 +560,7 @@ footer {
     }
 
     .site-header {
+        margin-left: 0.5em;
         text-align: center;
     }
 
@@ -593,6 +594,10 @@ footer {
 
     .index-listing {
         max-width: none;
+    }
+
+    article {
+        padding: 0 1.25em 0.5em 1.25em;
     }
 }
 
