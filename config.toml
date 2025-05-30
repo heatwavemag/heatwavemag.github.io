@@ -77,7 +77,7 @@ color_mode = "dark"
 
 # List of Papaya navigational menu items. Used to construct the navigation bar. See the README for item schema.
 menu_items = [
-    # { name = "blog", url = "$LANG_BASE_URL/blog", show_recent = true, recent_items = 3, recent_trans_key = "recent_blog_posts", more_trans_key = "more_blog_posts" },
+    { name = "blog", url = "$LANG_BASE_URL/blog", show_recent = true, recent_items = 3, recent_trans_key = "recent_blog_posts", more_trans_key = "more_blog_posts" },
     # tag is not a zola section, it's just a link.
     { name = "about", url = "$LANG_BASE_URL/about", show_recent = false },
     { name = "magazine", url = "$LANG_BASE_URL/magazine", show_recent = false },
