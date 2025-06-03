@@ -384,7 +384,8 @@ these surpluses were not just the result of German, Japanese, Chinese,
 or South Korean firms. They were also and above all the result of U.S.
 firms themselves, who were among the most active participants in
 globalization and the construction of global value chains.
-
+<br />
+<br />
 A break with the Volcker-era path would undoubtedly involve the
 repatriation of some U.S. capital invested abroad &mdash; but not only that.
 In many cases, the most globalized American multinationals will be
