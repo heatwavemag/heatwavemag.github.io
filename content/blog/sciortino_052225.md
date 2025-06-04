@@ -1,6 +1,7 @@
 +++
 title = "An Epochal Turning Point?"
 date = 2025-05-27
+authors = ["Raffaele Sciortino"]
 +++
 
 The failures of the Democratic administration can be

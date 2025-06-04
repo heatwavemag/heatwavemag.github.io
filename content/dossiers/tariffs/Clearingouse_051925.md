@@ -1,6 +1,7 @@
 +++
 title = "The Trump Tariffs: Some Notes from the Antipodes"
 date = 2025-05-19
+authors = ["Clearinghouse"]
 +++
 
 The Australian state is currently caught in a cleft stick, like so many

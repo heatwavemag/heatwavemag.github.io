@@ -1,6 +1,7 @@
 +++
 title = "The Case for Letting the World Burn"
 date = 2025-04-01
+authors = ["Heatwave"]
 +++
 
 Like all years now, 2025 began with fire. There was of course the

@@ -13,7 +13,10 @@ compile_sass = true
 build_search_index = false
 
 # When set to "true", a feed is automatically generated.
-generate_feeds = false
+generate_feeds = true
+
+# When set to "false", Sitemap.xml is not generated
+generate_sitemap = true
 
 [markdown]
 # When set to "true", all code blocks are highlighted.
@@ -36,6 +39,8 @@ taxonomies = [
     { name = "tags", lang = "en" },
     { name = "categories",  lang = "en" },
 ]
+
+feed_filenames = ["rss.xml"]
 
 [languages.en.translations]
 blog = " "
@@ -66,7 +71,6 @@ prev_page = "To newer posts"
 next_page = "To older posts"
 # Customize your post date format. See: https://tera.netlify.app/docs/#date
 date_format = "%B %e, %Y"
-
 
 [extra]
 # Development environment. Used by the page macros to load remote content only when in "prod" mode

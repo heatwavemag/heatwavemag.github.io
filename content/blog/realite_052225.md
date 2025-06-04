@@ -1,6 +1,7 @@
 +++
 title = "The Great Détournement-The Miran Doctrine and the Trump Shock"
 date = 2025-05-22
+authors = ["Réalité"]
 +++
 
 This article is part of a collective effort to clarify the dynamics of

@@ -1,7 +1,7 @@
 +++
 title = "Class and Disaster in Valencia"
 date = 2025-03-01
-
+authors = ["Anonymous"]
 +++
 
 This part of the world is no stranger to flooding. Valencia, which is the third largest city in Spain, is on the Mediterranean coast where the river Turia flows into the sea.
