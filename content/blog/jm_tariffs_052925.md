@@ -1,6 +1,7 @@
 +++
 title = "Tariffs as a Class Offensive"
 date = 2025-05-29
+authors = ["Jamie Merchant"]
 +++
 
 Properly contextualized, the tariffs' bumbling rollout is another

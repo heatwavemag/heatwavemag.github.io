@@ -1,6 +1,7 @@
 +++
 title = "Madness and Capitalist Civilization"
 date = 2025-05-20
+authors = ["Heatwave"]
 +++
 
 Even before "Liberation Day," our social media feeds were awash with the

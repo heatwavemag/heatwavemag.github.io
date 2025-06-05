@@ -1,6 +1,7 @@
 +++
 title = "On the Trump Blitzkrieg"
 date = 2025-04-13
+authors = ["S. Darby"]
 +++
 
 In the the first five weeks of Trump's second term, *The New York Times* ran six separate opinion pieces describing the experience as a "blitzkrieg."

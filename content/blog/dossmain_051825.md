@@ -1,6 +1,7 @@
 +++
 title = "Madness and Capitalist Civilization"
 date = 2025-05-20
+authors = ["Heatwave"]
 +++
 
 In this first dossier edited by the Heatwave media collective, we
