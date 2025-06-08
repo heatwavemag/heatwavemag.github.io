@@ -12,6 +12,9 @@ a broader range of tactics.
 
 <!-- more -->
 
+{{ img(path="@/magazine/issue1/blockade_060725_media/1.png", 
+alt="", caption="The first call for a blockade and community picket came in November 2023, targeting the Zionist shipping company ZIM.", extended_width_pct=-1) }}
+
 <br />
 
 **By Two Wollongong Friends of Palestine**
@@ -91,7 +94,8 @@ resulted only in protests outside the port, without disrupting the
 shipping line at all. Soon, however, pickets were attempted at each
 port. 
 <br />
-{{ img(path="@/magazine/issue1/blockade_060725_media/blockade3.png", 
+
+{{ img(path="@//magazine/issue1/blockade_060725_media/3.png", 
 alt="", caption="Since these early pickets in November 2023, the tactic has spread to
 other ports in Australia.", extended_width_pct=-1) }}
 
@@ -178,7 +182,8 @@ Under the banner 'No Illawarra Steel for Genocide', a network called
 Wollongong Friends of Palestine has organised a series of pickets at the
 Bisalloy Steels factory in Unanderra.
 <br />
-{{ img(path="@/magazine/issue1/blockade_060725_media/blockade2.png", 
+
+{{ img(path="@/magazine/issue1/blockade_060725_media/2.png", 
 alt="", caption="A network called Wollongong Friends of Palestine has organised a series of pickets at the Bisalloy Steels factory.", extended_width_pct=-1) }}
 
 
@@ -257,7 +262,7 @@ articulation of autonomy as a method of class movement away from simply
 observing actions planned and controlled by others, and to initiate mass
 action that we navigate collectively.
 <br />
-{{ img(path="@/magazine/issue1/blockade_060725_media/blockade4.png", 
+{{ img(path="@/magazine/issue1/blockade_060725_media/4.png", 
 alt="", caption="The pickets aimed to break down as much as possible the division between 'organisers' and 'the organised'.", extended_width_pct=-1) }}
 
 
@@ -457,7 +462,7 @@ factories to the atrocities facing our fellows in Gaza. Without
 overstating the significance of the pickets, they do constitute a form
 of class organisation appropriate to the conditions in Wollongong today.
 <br />
-{{ img(path="@/magazine/issue1/blockade_060725_media/blockade5.png", 
+{{ img(path="@/magazine/issue1/blockade_060725_media/5.png", 
 alt="", caption="With this latest picket, we have shut Bisalloy down for nearly 100 hours over 2024 and 2025.", extended_width_pct=-1) }}
 
 
