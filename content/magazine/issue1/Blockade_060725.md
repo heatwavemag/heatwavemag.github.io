@@ -11,8 +11,9 @@ Palestine solidarity here, this wave has been more widespread, involving
 a broader range of tactics.
 
 <!-- more -->
+
 {{ img(path="@/magazine/issue1/blockade_060725_media/blockade1.jpeg", 
-alt="", caption="The first call for a blockade and community picket came in November 2023, targeting the Zionist shipping company ZIM.", extended_width_pct=-1) }}
+alt="", caption="", extended_width_pct=-1) }}
 
 <br />
 
