@@ -12,9 +12,6 @@ a broader range of tactics.
 
 <!-- more -->
 
-{{ img(path="@/magazine/issue1/blockade_060725_media/blockade1.jpeg", 
-alt="", caption="", extended_width_pct=-1) }}
-
 <br />
 
 **By Two Wollongong Friends of Palestine**
