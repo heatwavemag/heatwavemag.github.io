@@ -97,7 +97,7 @@ port. 
 
 {{ img(path="@//magazine/issue1/Blockade_060725_media/blockade_3.png", 
 alt="", caption="Since these early pickets in November 2023, the tactic has spread to
-other ports in Australia.", extended_width_pct=-1) }}
+other industrial areas in Australia.", extended_width_pct=-1) }}
 
 At Port Botany, in Sydney, two community pickets were held. While these
 were not trade union pickets, the Maritime Union of Australia (MUA) was
@@ -131,7 +131,7 @@ on the picket.[^1]
 <br />
 <br />
 Since these early pickets in November 2023, the tactic has spread to
-other ports in Victoria and NSW, as well as Queensland and other
+other ports and industrial areas in Victoria and NSW, as well as Queensland and other
 states/territories. The pickets organised at Bisalloy differ from those
 outlined above, providing insights into other ways that this tactic can
 disrupt supply chains.
@@ -310,8 +310,7 @@ decisions would be binding for everyone. 
 Meetings allowed for clarity on what we knew about the site that day
 (for example, when we had been told in advance the site would be shut)
 or to gather observations from the whole picket (Were there cars in the
-carpark? Were the factory's roller doors open?). They also helped us
-Picket meetings were also convened to discuss potential challenges to
+carpark? Were the factory's roller doors open?). Picket meetings were also convened to discuss potential challenges to
 the picket from cops or others. 
 <br />
 <br />
@@ -439,7 +438,7 @@ also exceed the workplace in grappling with this challenge, such as the
 NSW Builders Labourers Federation of the 1970s. The BLF took up 'green
 bans' (refusal to work on projects that would harm the natural or
 cultural environment, including disruption of proletarian
-neighbourhoods),as well as women's and queer liberation struggles, as
+neighbourhoods), as well as women's and queer liberation struggles, as
 key organising objectives, demonstrating how proletarian relations could
 become a part of class movement within and beyond the workplace.[^3]
 Wollongong's own history as a working-class town also provides lessons,
