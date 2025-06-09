@@ -19,7 +19,7 @@ alt="", caption="The first call for a blockade and community picket came in Nove
 
 **By Two Wollongong Friends of Palestine**
 
-<font style="font-family: Arial, sans-serif; font-size:55pt; font-style:regular; width: .80em; font-weight: 400; line-height: 52px; float: left; color:rgb(255, 254, 255); padding-top: 10px; padding-bottom: 5px; padding-right: 5px; padding-left: -5px;  margin-right: -5px; margin-bottom: -5px;">W</font>e arrived at 5:45 a.m. It was an overcast morning in November, but
+<font style="font-family: Arial, sans-serif; font-size:60pt; font-style:regular; width: .80em; font-weight: 400; line-height: 52px; float: left; color:rgb(255, 254, 255); padding-top: 13px; padding-bottom: 5px; padding-right: 20px; padding-left: -5px;  margin-right: -5px; margin-bottom: -5px;">W</font>e arrived at 5:45 a.m. It was an overcast morning in November, but
 unlike last time the sky was already light, dawn had just passed. We
 were in the middle of a regional industrial zone that was already alive
 with machinery churning, trucks arriving and departing, and workers from
