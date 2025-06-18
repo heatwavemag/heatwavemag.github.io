@@ -602,7 +602,9 @@ balance.
 Faced with the integral administration of ruin, the challenge is not to
 govern it better, but to stop producing it.
 
-&mdash; Conatus Editorial
+> Conatus is a transnational collective of communists translating and 
+> producing situated theory in and from Latin America, with a base in Mexico.
+> Learn more about them at their [website](https://conatuseditorial.noblogs.org/).
 
 [^1]: U.S. Census Bureau, 2024.
 
