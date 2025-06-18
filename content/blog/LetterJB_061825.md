@@ -1,5 +1,5 @@
 +++
-title = "A Letter to :Heatwave: A response to Réalité"
+title = "A Letter to Heatwave: A response to Réalité"
 date = 2025-06-18
 authors = ["Jasper Bernes"]
 +++
