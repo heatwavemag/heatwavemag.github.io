@@ -1,7 +1,7 @@
 +++
 title = "Proletarian Report on the Burned Periphery: Mexico in the Global Management of the Surplus"
 date = 2025-06-18
-authors = ["Editorial Conatus"]
+authors = ["Conatus Editorial"]
 +++
 
 The U.S.-Mexico border operates as a laboratory for generalized crisis. Mexico is not on the margins of this crisis: it is one of its active
@@ -13,7 +13,7 @@ alt="", caption="To think of economic war through tariffs as an exception is to 
 
 <br />
 
-**Editorial Conatus**
+**Conatus Editorial**
 <br />
 <br />
 <center>
@@ -602,7 +602,7 @@ balance.
 Faced with the integral administration of ruin, the challenge is not to
 govern it better, but to stop producing it.
 
- &mdash; Conatus
+&mdash; Conatus Editorial
 
 [^1]: U.S. Census Bureau, 2024.
 
