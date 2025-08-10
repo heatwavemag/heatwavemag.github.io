@@ -69,6 +69,7 @@ other = "Other"
 minute = "min"
 prev_page = "To newer posts"
 next_page = "To older posts"
+findus = "Find Us"
 # Customize your post date format. See: https://tera.netlify.app/docs/#date
 date_format = "%B %e, %Y"
 
@@ -88,6 +89,7 @@ menu_items = [
     { name = "submissions", url = "$LANG_BASE_URL/submissions", show_recent = false },
     { name = "subscribe", url = "$LANG_BASE_URL/subscribe", show_recent = false },
     { name = "projects", url = "$LANG_BASE_URL/projects",  show_recent = false},
+    { name = "findus", url = "$LANG_BASE_URL/find-us",  show_recent = false},
     { name = "tags", url = "$LANG_BASE_URL/tags" },
 ]
 
